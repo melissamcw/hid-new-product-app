@@ -7,7 +7,7 @@ angular.module('starter.services', [])
   // Might use a resource here that returns a JSON array
 
   // Some fake testing data
-  var products = [
+  var friend = [
     { id: 0, name: 'Physical Access' },
     { id: 1, name: 'Logical Access' },
     { id: 2, name: 'Card Printers' }
@@ -15,7 +15,7 @@ angular.module('starter.services', [])
 
   return {
     all: function() {
-      return products;
+      return friend;
     },
     get: function(friendId) {
       // Simple index lookup
