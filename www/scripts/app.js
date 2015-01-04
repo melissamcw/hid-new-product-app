@@ -43,7 +43,7 @@ angular.module('HidProductAppNew', ['ionic', 'config', 'HidProductAppNew.service
       url: '/home',
       views: {
         'pets-tab': {
-          templateUrl: 'templates/tpl.home.html',
+          templateUrl: 'templates/home.html',
           controller: 'PetIndexCtrl'
         }
       }
