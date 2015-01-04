@@ -1,0 +1,44 @@
+2015-01-03 16:01:43.692 HidProductAppNew[11026:210087] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/070E684E-7C65-42F7-86D6-C15508145F81/Library/Cookies/Cookies.binarycookies
+2015-01-03 16:01:44.031 HidProductAppNew[11026:210087] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-03 16:01:44.032 HidProductAppNew[11026:210087] Multi-tasking -> Device: YES, App: YES
+2015-01-03 16:01:44.048 HidProductAppNew[11026:210087] Unlimited access to network resources
+2015-01-03 16:01:44.060 HidProductAppNew[11026:210087] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-03 16:01:45.095 HidProductAppNew[11026:210087] Resetting plugins due to page load.
+2015-01-03 16:01:45.341 HidProductAppNew[11026:210087] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/6E96AA54-E4D3-4C7D-B4EA-9FE26E5A39A3/HidProductAppNew.app/www/index.html#/tab/pets
+2015-01-03 17:21:49.642 HidProductAppNew[16781:252549] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/F64803B0-CC74-4D10-A655-C735384BCCF3/Library/Cookies/Cookies.binarycookies
+2015-01-03 17:21:49.837 HidProductAppNew[16781:252549] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-03 17:21:49.837 HidProductAppNew[16781:252549] Multi-tasking -> Device: YES, App: YES
+2015-01-03 17:21:49.839 HidProductAppNew[16781:252549] Unlimited access to network resources
+2015-01-03 17:21:49.847 HidProductAppNew[16781:252549] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-03 17:21:50.341 HidProductAppNew[16781:252549] Resetting plugins due to page load.
+2015-01-03 17:21:50.562 HidProductAppNew[16781:252549] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/FB8DBB51-839D-4032-98E1-B756A1142A3C/HidProductAppNew.app/www/index.html#/tab/pets
+2015-01-04 17:25:03.007 HidProductAppNew[27416:481290] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/621FEACF-E0C6-4933-BA88-C3EB3647DF2A/Library/Cookies/Cookies.binarycookies
+2015-01-04 17:25:03.697 HidProductAppNew[27416:481290] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-04 17:25:03.698 HidProductAppNew[27416:481290] Multi-tasking -> Device: YES, App: YES
+2015-01-04 17:25:03.731 HidProductAppNew[27416:481290] Unlimited access to network resources
+2015-01-04 17:25:03.759 HidProductAppNew[27416:481290] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-04 17:25:05.026 HidProductAppNew[27416:481290] [CDVTimer][splashscreen] 432.607055ms
+2015-01-04 17:25:05.026 HidProductAppNew[27416:481290] [CDVTimer][TotalPluginStartup] 433.014989ms
+2015-01-04 17:25:05.407 HidProductAppNew[27416:481290] Resetting plugins due to page load.
+2015-01-04 17:25:06.343 HidProductAppNew[27416:481290] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/92FEB7CC-2770-4985-8F08-E2C354E21D83/HidProductAppNew.app/www/index.html#/tab/pets
