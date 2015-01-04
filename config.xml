@@ -2,7 +2,7 @@
 <widget id="com.example.HidProductAppNew" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>HID Product Solutions</name>
     <description>
-        A product solutions application for HID Global and ASSA ABBLOY company.
+        A product solutions application for HID Global an ASSA ABLOY company.
     </description>
     <author email="mmcwilliams@hidglobal.com" href="http://www.hidglobal.com">
         HID Global
