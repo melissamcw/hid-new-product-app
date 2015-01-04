@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.example.HidProductAppNew" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>HidProductAppNew</name>
+    <name>HID Product Solutions</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        A product solutions application for HID Global and ASSA ABBLOY company.
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
+    <author email="mmcwilliams@hidglobal.com" href="http://www.hidglobal.com">
+        HID Global
     </author>
     <content src="index.html" />
     <access origin="*" />
