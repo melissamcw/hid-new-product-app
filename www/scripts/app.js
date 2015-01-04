@@ -40,10 +40,10 @@ angular.module('HidProductAppNew', ['ionic', 'config', 'HidProductAppNew.service
 
     // the pet tab has its own child nav-view and history
     .state('tab.pet-index', {
-      url: '/pets',
+      url: '/home',
       views: {
         'pets-tab': {
-          templateUrl: 'templates/pet-index.html',
+          templateUrl: 'templates/tpl.home.html',
           controller: 'PetIndexCtrl'
         }
       }
@@ -78,7 +78,7 @@ angular.module('HidProductAppNew', ['ionic', 'config', 'HidProductAppNew.service
     });
 
   // if none of the above states are matched, use this as the fallback
-  $urlRouterProvider.otherwise('/tab/pets');
+  $urlRouterProvider.otherwise('/tab/home');
 
 });
 
