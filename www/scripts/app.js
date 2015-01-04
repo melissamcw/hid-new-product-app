@@ -39,12 +39,12 @@ angular.module('HidProductAppNew', ['ionic', 'config', 'HidProductAppNew.service
     })
 
     // the pet tab has its own child nav-view and history
-    .state('tab.pet-index', {
+    .state('tab.home', {
       url: '/home',
       views: {
-        'pets-tab': {
+        'home': {
           templateUrl: 'templates/home.html',
-          controller: 'PetIndexCtrl'
+          controller: 'HomeCtrl'
         }
       }
     })
