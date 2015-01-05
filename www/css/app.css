@@ -119,7 +119,7 @@ map.fullscreen {
   height: 140px;
   left: 0;
   top: 50%;
-  margin-top: -70px;
+  margin-top: -20px;
   text-align: center;
   color: #fff;
   position: absolute;
@@ -131,9 +131,10 @@ map.fullscreen {
   color: #fff;
   font-weight: normal;
   margin: 0 0 5px 0;
+  letter-spacing: 1px;
 }
 .details-content .subtitle {
-  font-family: 'Playfair Display SC', serif;
+  font-family: 'Gotham-Thin', cursive;
   font-size: 20px;
   letter-spacing: 1px;
   color: #fff;
