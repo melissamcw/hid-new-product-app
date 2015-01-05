@@ -132,6 +132,7 @@ map.fullscreen {
   font-weight: normal;
   margin: 0 0 5px 0;
   letter-spacing: -1px;
+  line-height:1em;
 }
 .details-content .subtitle {
   font-family: 'Gotham-Thin', serif;
