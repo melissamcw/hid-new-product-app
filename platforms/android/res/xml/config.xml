@@ -1,15 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.restaurant.start" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.example.HidProductAppNew" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <preference name="loglevel" value="DEBUG" />
-    <name>Restaurant</name>
-    <description>
-        A sample Apache Cordova application that responds to the deviceready event.
-    </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
-        Apache Cordova Team
-    </author>
-    <content src="index.html" />
-    <access origin="*" />
     <feature name="DatePickerPlugin">
         <param name="android-package" value="com.plugin.datepicker.DatePickerPlugin" />
     </feature>
@@ -22,4 +13,15 @@
     <feature name="InAppBrowser">
         <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
     </feature>
+    <name>HID Product Solutions</name>
+    <description>
+        A product solutions application for HID Global an ASSA ABLOY company.
+    </description>
+    <author email="mmcwilliams@hidglobal.com" href="http://www.hidglobal.com">
+        HID Global
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashScreenDelay" value="3000" />
 </widget>
