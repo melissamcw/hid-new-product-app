@@ -19,15 +19,18 @@
     <feature name="LocalStorage">
         <param name="ios-package" value="CDVLocalStorage" />
     </feature>
-    <feature name="Console">
-        <param name="ios-package" value="CDVLogger" />
+    <feature name="EmailComposer">
+        <param name="ios-package" value="APPEmailComposer" />
     </feature>
-    <feature name="Device">
-        <param name="ios-package" value="CDVDevice" />
-    </feature>
-    <feature name="SplashScreen">
-        <param name="ios-package" value="CDVSplashScreen" />
+    <feature name="SocialSharing">
+        <param name="ios-package" value="SocialSharing" />
         <param name="onload" value="true" />
+    </feature>
+    <feature name="InAppBrowser">
+        <param name="ios-package" value="CDVInAppBrowser" />
+    </feature>
+    <feature name="DatePicker">
+        <param name="ios-package" value="DatePicker" />
     </feature>
     <name>HID Product Solutions</name>
     <description>

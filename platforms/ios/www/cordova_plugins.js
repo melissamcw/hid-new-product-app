@@ -1,40 +1,42 @@
 cordova.define('cordova/plugin_list', function(require, exports, module) {
 module.exports = [
     {
-        "file": "plugins/org.apache.cordova.console/www/console-via-logger.js",
-        "id": "org.apache.cordova.console.console",
+        "file": "plugins/de.appplant.cordova.plugin.email-composer/www/email_composer.js",
+        "id": "de.appplant.cordova.plugin.email-composer.EmailComposer",
         "clobbers": [
-            "console"
+            "cordova.plugins.email",
+            "plugin.email"
         ]
     },
     {
-        "file": "plugins/org.apache.cordova.console/www/logger.js",
-        "id": "org.apache.cordova.console.logger",
+        "file": "plugins/nl.x-services.plugins.socialsharing/www/SocialSharing.js",
+        "id": "nl.x-services.plugins.socialsharing.SocialSharing",
         "clobbers": [
-            "cordova.logger"
+            "window.plugins.socialsharing"
         ]
     },
     {
-        "file": "plugins/org.apache.cordova.device/www/device.js",
-        "id": "org.apache.cordova.device.device",
+        "file": "plugins/org.apache.cordova.inappbrowser/www/inappbrowser.js",
+        "id": "org.apache.cordova.inappbrowser.inappbrowser",
         "clobbers": [
-            "device"
+            "window.open"
         ]
     },
     {
-        "file": "plugins/org.apache.cordova.splashscreen/www/splashscreen.js",
-        "id": "org.apache.cordova.splashscreen.SplashScreen",
+        "file": "plugins/com.plugin.datepicker/www/ios/DatePicker.js",
+        "id": "com.plugin.datepicker.DatePicker",
         "clobbers": [
-            "navigator.splashscreen"
+            "datePicker"
         ]
     }
 ];
 module.exports.metadata = 
 // TOP OF METADATA
 {
-    "org.apache.cordova.console": "0.2.12",
-    "org.apache.cordova.device": "0.2.13",
-    "org.apache.cordova.splashscreen": "0.3.5"
+    "de.appplant.cordova.plugin.email-composer": "0.8.2dev",
+    "nl.x-services.plugins.socialsharing": "4.3.8",
+    "org.apache.cordova.inappbrowser": "0.5.3",
+    "com.plugin.datepicker": "0.4.0"
 }
 // BOTTOM OF METADATA
 });
