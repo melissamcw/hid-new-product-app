@@ -126,7 +126,7 @@ map.fullscreen {
   z-index: 2;
 }
 .details-content h2.home-title {
-  font-family: 'Lobster', cursive;
+  font-family: 'Gotham-Thin';
   font-size: 60px;
   color: #fff;
   font-weight: normal;
@@ -194,7 +194,7 @@ map.fullscreen {
   margin: 0 auto;
 }
 .login-page h2.home-title {
-  font-family: 'Lobster', cursive;
+  font-family: 'Gotham-Thin';
   font-size: 50px;
   color: #fff;
   font-weight: normal;
@@ -262,7 +262,7 @@ map.fullscreen {
   color: #fff;
 }
 .signup-page h2.home-title {
-  font-family: 'Lobster', cursive;
+  font-family: 'Gotham-Thin';
   font-size: 50px;
   color: #fff;
   font-weight: normal;
