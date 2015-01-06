@@ -353,6 +353,14 @@ img.bg {
   display: none;
 }
 /* Pages */
+
+.details-content .app-page-menu .product-title {
+  font-family: 'Gotham-Thin', serif;
+  font-size: 20px;
+  letter-spacing: 1px;
+  color: #055c36;
+  margin: 0 0 10px 0;
+}
 .app-page .app-hero {
   height: 200px;
   position: relative;
@@ -845,7 +853,7 @@ ons-page.friends .person-image img {
   position: absolute;
   left: 0;
   top: 50%;
-  margin-top: -12px;
+  margin-top: 1px;
   text-align: center;
 }
 /* Side Menu */

@@ -508,3 +508,59 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2015-01-06 09:52:39.901 HID Product Solutions[29999:269835] [CDVTimer][TotalPluginStartup] 77.300012ms
 2015-01-06 09:52:39.937 HID Product Solutions[29999:269835] Resetting plugins due to page load.
 2015-01-06 09:52:40.144 HID Product Solutions[29999:269835] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/B3EF8796-8D17-4169-869A-55FA69AA0139/HID%20Product%20Solutions.app/www/index.html
+2015-01-06 09:58:00.962 HID Product Solutions[30456:272925] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-06 09:58:00.963 HID Product Solutions[30456:272925] Multi-tasking -> Device: YES, App: YES
+2015-01-06 09:58:00.980 HID Product Solutions[30456:272925] Unlimited access to network resources
+2015-01-06 09:58:00.986 HID Product Solutions[30456:272925] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-06 09:58:01.311 HID Product Solutions[30456:272925] [CDVTimer][socialsharing] 86.030006ms
+2015-01-06 09:58:01.311 HID Product Solutions[30456:272925] [CDVTimer][TotalPluginStartup] 86.175978ms
+2015-01-06 09:58:01.421 HID Product Solutions[30456:272925] Resetting plugins due to page load.
+2015-01-06 09:58:01.774 HID Product Solutions[30456:272925] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/D31D951D-337F-48F7-BEC4-67303AF4D908/HID%20Product%20Solutions.app/www/index.html
+2015-01-06 09:59:00.515 HID Product Solutions[30714:273941] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-06 09:59:00.516 HID Product Solutions[30714:273941] Multi-tasking -> Device: YES, App: YES
+2015-01-06 09:59:00.520 HID Product Solutions[30714:273941] Unlimited access to network resources
+2015-01-06 09:59:00.523 HID Product Solutions[30714:273941] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-06 09:59:00.776 HID Product Solutions[30714:273941] [CDVTimer][socialsharing] 75.437963ms
+2015-01-06 09:59:00.776 HID Product Solutions[30714:273941] [CDVTimer][TotalPluginStartup] 75.594962ms
+2015-01-06 09:59:00.817 HID Product Solutions[30714:273941] Resetting plugins due to page load.
+2015-01-06 09:59:01.124 HID Product Solutions[30714:273941] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/4730BC73-B9B8-4763-A692-5F54CBF515F7/HID%20Product%20Solutions.app/www/index.html
+2015-01-06 10:02:32.830 HID Product Solutions[31023:276072] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-06 10:02:32.831 HID Product Solutions[31023:276072] Multi-tasking -> Device: YES, App: YES
+2015-01-06 10:02:32.836 HID Product Solutions[31023:276072] Unlimited access to network resources
+2015-01-06 10:02:32.838 HID Product Solutions[31023:276072] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-06 10:02:33.100 HID Product Solutions[31023:276072] [CDVTimer][socialsharing] 78.738987ms
+2015-01-06 10:02:33.100 HID Product Solutions[31023:276072] [CDVTimer][TotalPluginStartup] 78.898966ms
+2015-01-06 10:02:33.143 HID Product Solutions[31023:276072] Resetting plugins due to page load.
+2015-01-06 10:02:33.384 HID Product Solutions[31023:276072] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/66DF22A4-C1C2-434B-8D54-05621BF651AC/HID%20Product%20Solutions.app/www/index.html
+2015-01-06 10:05:45.716 HID Product Solutions[31364:277882] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-06 10:05:45.717 HID Product Solutions[31364:277882] Multi-tasking -> Device: YES, App: YES
+2015-01-06 10:05:45.721 HID Product Solutions[31364:277882] Unlimited access to network resources
+2015-01-06 10:05:45.724 HID Product Solutions[31364:277882] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-06 10:05:45.991 HID Product Solutions[31364:277882] [CDVTimer][socialsharing] 82.906008ms
+2015-01-06 10:05:45.991 HID Product Solutions[31364:277882] [CDVTimer][TotalPluginStartup] 83.048999ms
+2015-01-06 10:05:46.033 HID Product Solutions[31364:277882] Resetting plugins due to page load.
+2015-01-06 10:05:46.284 HID Product Solutions[31364:277882] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/8814B58E-83AD-46CB-B1B9-A0DF5CF6E5B0/HID%20Product%20Solutions.app/www/index.html
