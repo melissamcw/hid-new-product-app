@@ -353,13 +353,20 @@ img.bg {
   display: none;
 }
 /* Pages */
-
+.details-content h2.product-lines {
+  font-family: 'Gotham-Thin';
+  font-size: 40px;
+  color: #fff;
+  font-weight: normal;
+  margin: 10px 0 5px 0;
+  letter-spacing: -1px;
+}
 .details-content .app-page-menu .product-title {
   font-family: 'Gotham-Thin', serif;
   font-size: 20px;
   letter-spacing: 1px;
-  color: #055c36;
-  margin: 0 0 10px 0;
+  color: #002e56;
+  margin: 0 0 0 55px;
 }
 .app-page .app-hero {
   height: 200px;
