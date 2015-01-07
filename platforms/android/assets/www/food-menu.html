@@ -1,0 +1,43 @@
+<ons-navigator animation="slide" var="gallery">  
+  <ons-page>
+    <ons-toolbar modifier="opacity">
+      <div class="right">
+        <ons-toolbar-button ng-click="menu.toggle()"><ons-icon icon="ion-navicon-round" fixed-width="false"></ons-icon></ons-toolbar-button>
+      </div>
+      <img src="img/brick.png" class="center"></div>
+    </ons-toolbar>
+    <div class="app-page">
+      <div class="products-content">
+      <h2 class="product-lines"><center>Product Lines</center></h2>
+      <div class="app-page-menu">
+        <ons-row>
+          <ons-col>
+            <ons-button modifier="clean" ng-click="gallery.pushPage('');">
+              <img src="img/menu/physical-access.png">
+              <p class="product-title">Physical Access</p>
+            </ons-button>
+          </ons-col>
+        </ons-row>
+        <ons-row>
+          <ons-col>
+            <ons-button modifier="clean" ng-click="gallery.pushPage('');">
+              <img src="img/menu/logical-access.png">
+              <p class="product-title">Logical Access</p>
+            </ons-button>
+          </ons-col>
+        </ons-row>
+        <ons-row>
+          <ons-col>
+            <ons-button modifier="clean" ng-click="gallery.pushPage('');">
+              <img src="img/menu/card-printers.png">
+              <p class="product-title">Card Printers</p>
+            </ons-button>
+          </ons-col>
+        </ons-row>
+      </div>
+    </div>
+     <div class="">
+        <img src="img/bg.png" class="bg">
+      </div>
+  </ons-page>
+</ons-navigator>   
