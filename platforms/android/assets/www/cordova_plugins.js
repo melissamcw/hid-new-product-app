@@ -42,7 +42,7 @@ module.exports.metadata =
 {
     "com.plugin.datepicker": "0.4.0",
     "de.appplant.cordova.plugin.email-composer": "0.8.2dev",
-    "nl.x-services.plugins.socialsharing": "4.3.8",
+    "nl.x-services.plugins.socialsharing": "4.3.12",
     "org.apache.cordova.inappbrowser": "0.5.3",
     "org.apache.cordova.splashscreen": "0.3.5"
 }

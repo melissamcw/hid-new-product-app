@@ -943,3 +943,1444 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-01-08 15:16:30.299 HID Product Solutions[45053:411911] [CDVTimer][TotalPluginStartup] 14.303029ms
 2015-01-08 15:16:30.339 HID Product Solutions[45053:411911] Resetting plugins due to page load.
 2015-01-08 15:16:30.512 HID Product Solutions[45053:411911] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/D2CCAFE6-ECB1-4170-82D3-D8F380E15CA2/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:40:06.969 HID Product Solutions[46788:425788] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/0BE7F7E9-7151-403C-8600-4749F175F889/Library/Cookies/Cookies.binarycookies
+2015-01-08 15:40:07.229 HID Product Solutions[46788:425788] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 15:40:07.229 HID Product Solutions[46788:425788] Multi-tasking -> Device: YES, App: YES
+2015-01-08 15:40:07.240 HID Product Solutions[46788:425788] Unlimited access to network resources
+2015-01-08 15:40:07.252 HID Product Solutions[46788:425788] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 15:40:07.623 HID Product Solutions[46788:425788] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 15:40:07.624 HID Product Solutions[46788:425788] [CDVTimer][socialsharing] 0.147998ms
+2015-01-08 15:40:07.777 HID Product Solutions[46788:425788] [CDVTimer][splashscreen] 153.262973ms
+2015-01-08 15:40:07.777 HID Product Solutions[46788:425788] [CDVTimer][TotalPluginStartup] 154.142976ms
+2015-01-08 15:40:07.851 HID Product Solutions[46788:425788] Resetting plugins due to page load.
+2015-01-08 15:40:08.264 HID Product Solutions[46788:425788] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/628D0007-AAD4-4AFA-8045-25E699FC98F7/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:40:12.211 HID Product Solutions[46788:425788] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:40:12.211 HID Product Solutions[46788:425788] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:40:12.212 HID Product Solutions[46788:425788] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing159536233",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:40:13.057 HID Product Solutions[46788:425788] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:40:13.057 HID Product Solutions[46788:425788] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:40:13.057 HID Product Solutions[46788:425788] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing159536234",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:40:13.232 HID Product Solutions[46788:425788] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:40:13.232 HID Product Solutions[46788:425788] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:40:13.232 HID Product Solutions[46788:425788] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing159536235",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:40:13.402 HID Product Solutions[46788:425788] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:40:13.402 HID Product Solutions[46788:425788] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:40:13.402 HID Product Solutions[46788:425788] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing159536236",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:40:13.885 HID Product Solutions[46788:425788] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:40:13.885 HID Product Solutions[46788:425788] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:40:13.885 HID Product Solutions[46788:425788] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing159536237",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:40:14.052 HID Product Solutions[46788:425788] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:40:14.052 HID Product Solutions[46788:425788] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:40:14.052 HID Product Solutions[46788:425788] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing159536238",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:40:14.214 HID Product Solutions[46788:425788] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:40:14.215 HID Product Solutions[46788:425788] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:40:14.215 HID Product Solutions[46788:425788] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing159536239",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:40:14.382 HID Product Solutions[46788:425788] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:40:14.382 HID Product Solutions[46788:425788] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:40:14.382 HID Product Solutions[46788:425788] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing159536240",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:40:22.945 HID Product Solutions[47025:426419] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/E298D68F-FD45-4E0F-9FE7-779648CA971F/Library/Cookies/Cookies.binarycookies
+2015-01-08 15:40:23.022 HID Product Solutions[47025:426419] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 15:40:23.022 HID Product Solutions[47025:426419] Multi-tasking -> Device: YES, App: YES
+2015-01-08 15:40:23.023 HID Product Solutions[47025:426419] Unlimited access to network resources
+2015-01-08 15:40:23.025 HID Product Solutions[47025:426419] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 15:40:23.190 HID Product Solutions[47025:426419] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 15:40:23.190 HID Product Solutions[47025:426419] [CDVTimer][socialsharing] 0.146985ms
+2015-01-08 15:40:23.218 HID Product Solutions[47025:426419] [CDVTimer][splashscreen] 27.507007ms
+2015-01-08 15:40:23.218 HID Product Solutions[47025:426419] [CDVTimer][TotalPluginStartup] 27.998984ms
+2015-01-08 15:40:23.253 HID Product Solutions[47025:426419] Resetting plugins due to page load.
+2015-01-08 15:40:23.435 HID Product Solutions[47025:426419] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/811AC778-404D-45D9-AB04-592BEBE5104E/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:52:33.349 HID Product Solutions[47572:432506] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/A0C37C90-D804-4E3E-B6DA-A488C1F6C932/Library/Cookies/Cookies.binarycookies
+2015-01-08 15:52:33.436 HID Product Solutions[47572:432506] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 15:52:33.436 HID Product Solutions[47572:432506] Multi-tasking -> Device: YES, App: YES
+2015-01-08 15:52:33.438 HID Product Solutions[47572:432506] Unlimited access to network resources
+2015-01-08 15:52:33.440 HID Product Solutions[47572:432506] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 15:52:33.606 HID Product Solutions[47572:432506] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 15:52:33.606 HID Product Solutions[47572:432506] [CDVTimer][socialsharing] 0.155032ms
+2015-01-08 15:52:33.634 HID Product Solutions[47572:432506] [CDVTimer][splashscreen] 28.110027ms
+2015-01-08 15:52:33.634 HID Product Solutions[47572:432506] [CDVTimer][TotalPluginStartup] 28.526008ms
+2015-01-08 15:52:33.670 HID Product Solutions[47572:432506] Resetting plugins due to page load.
+2015-01-08 15:52:33.895 HID Product Solutions[47572:432506] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/681AB846-1156-47BB-968E-1A9F4AA7861C/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:52:39.119 HID Product Solutions[47572:432506] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:52:39.119 HID Product Solutions[47572:432506] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:52:39.119 HID Product Solutions[47572:432506] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1574786418",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 15:52:39.842 HID Product Solutions[47572:432506] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:52:39.842 HID Product Solutions[47572:432506] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:52:39.842 HID Product Solutions[47572:432506] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1574786419",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 15:52:40.335 HID Product Solutions[47572:432506] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:52:40.335 HID Product Solutions[47572:432506] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:52:40.336 HID Product Solutions[47572:432506] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1574786420",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 15:52:40.644 HID Product Solutions[47572:432506] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:52:40.644 HID Product Solutions[47572:432506] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:52:40.645 HID Product Solutions[47572:432506] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1574786421",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 15:52:40.942 HID Product Solutions[47572:432506] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:52:40.942 HID Product Solutions[47572:432506] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:52:40.942 HID Product Solutions[47572:432506] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1574786422",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 15:52:42.416 HID Product Solutions[47572:432506] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:52:42.416 HID Product Solutions[47572:432506] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:52:42.416 HID Product Solutions[47572:432506] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1574786423",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 15:52:42.746 HID Product Solutions[47572:432506] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:52:42.746 HID Product Solutions[47572:432506] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:52:42.746 HID Product Solutions[47572:432506] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1574786424",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 15:53:46.420 HID Product Solutions[47827:433541] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/5F5CDF72-6A03-46FC-81BE-8949752DBF28/Library/Cookies/Cookies.binarycookies
+2015-01-08 15:53:46.511 HID Product Solutions[47827:433541] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 15:53:46.511 HID Product Solutions[47827:433541] Multi-tasking -> Device: YES, App: YES
+2015-01-08 15:53:46.512 HID Product Solutions[47827:433541] Unlimited access to network resources
+2015-01-08 15:53:46.514 HID Product Solutions[47827:433541] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 15:53:46.688 HID Product Solutions[47827:433541] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 15:53:46.688 HID Product Solutions[47827:433541] [CDVTimer][socialsharing] 0.146985ms
+2015-01-08 15:53:46.714 HID Product Solutions[47827:433541] [CDVTimer][splashscreen] 25.972962ms
+2015-01-08 15:53:46.714 HID Product Solutions[47827:433541] [CDVTimer][TotalPluginStartup] 26.414990ms
+2015-01-08 15:53:46.747 HID Product Solutions[47827:433541] Resetting plugins due to page load.
+2015-01-08 15:53:46.922 HID Product Solutions[47827:433541] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/602479E2-02AE-4A71-837C-F774C4A2DA8C/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:53:53.064 HID Product Solutions[47827:433541] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:53:53.064 HID Product Solutions[47827:433541] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:53:53.064 HID Product Solutions[47827:433541] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing562871914",
+  "SocialSharing",
+  "share",
+  [
+    "Message only",
+    null,
+    [
+
+    ],
+    null
+  ]
+]
+2015-01-08 15:53:53.528 HID Product Solutions[47827:433541] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:53:53.528 HID Product Solutions[47827:433541] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:53:53.528 HID Product Solutions[47827:433541] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing562871915",
+  "SocialSharing",
+  "share",
+  [
+    "Message only",
+    null,
+    [
+
+    ],
+    null
+  ]
+]
+2015-01-08 16:01:08.831 HID Product Solutions[48191:437165] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/C7843A34-D289-46CB-811B-019CB5C4D044/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:01:08.918 HID Product Solutions[48191:437165] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:01:08.918 HID Product Solutions[48191:437165] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:01:08.920 HID Product Solutions[48191:437165] Unlimited access to network resources
+2015-01-08 16:01:08.922 HID Product Solutions[48191:437165] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:01:09.096 HID Product Solutions[48191:437165] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:01:09.097 HID Product Solutions[48191:437165] [CDVTimer][socialsharing] 0.154972ms
+2015-01-08 16:01:09.124 HID Product Solutions[48191:437165] [CDVTimer][splashscreen] 27.577996ms
+2015-01-08 16:01:09.124 HID Product Solutions[48191:437165] [CDVTimer][TotalPluginStartup] 27.999997ms
+2015-01-08 16:01:09.158 HID Product Solutions[48191:437165] Resetting plugins due to page load.
+2015-01-08 16:01:09.338 HID Product Solutions[48191:437165] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/E83FC271-EDD5-4C41-847D-A19ADB5CC83C/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:01:20.223 HID Product Solutions[48191:437165] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:01:20.223 HID Product Solutions[48191:437165] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:01:20.223 HID Product Solutions[48191:437165] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing352888255",
+  "SocialSharing",
+  "share",
+  [
+    "Message only",
+    null,
+    [
+
+    ],
+    null
+  ]
+]
+2015-01-08 16:01:20.979 HID Product Solutions[48191:437165] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:01:20.979 HID Product Solutions[48191:437165] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:01:20.980 HID Product Solutions[48191:437165] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing352888256",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 16:01:21.202 HID Product Solutions[48191:437165] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:01:21.202 HID Product Solutions[48191:437165] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:01:21.202 HID Product Solutions[48191:437165] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing352888257",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 16:01:21.516 HID Product Solutions[48191:437165] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:01:21.516 HID Product Solutions[48191:437165] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:01:21.517 HID Product Solutions[48191:437165] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing352888258",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 16:02:59.164 HID Product Solutions[48470:438549] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/70005EDC-3206-4094-A409-856604BDE20B/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:02:59.237 HID Product Solutions[48470:438549] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:02:59.237 HID Product Solutions[48470:438549] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:02:59.238 HID Product Solutions[48470:438549] Unlimited access to network resources
+2015-01-08 16:02:59.240 HID Product Solutions[48470:438549] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:02:59.406 HID Product Solutions[48470:438549] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:02:59.406 HID Product Solutions[48470:438549] [CDVTimer][socialsharing] 0.144005ms
+2015-01-08 16:02:59.431 HID Product Solutions[48470:438549] [CDVTimer][splashscreen] 24.730027ms
+2015-01-08 16:02:59.431 HID Product Solutions[48470:438549] [CDVTimer][TotalPluginStartup] 25.192976ms
+2015-01-08 16:02:59.465 HID Product Solutions[48470:438549] Resetting plugins due to page load.
+2015-01-08 16:02:59.641 HID Product Solutions[48470:438549] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/5F680E39-2CA9-4A16-8678-1A399A8310FF/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:03:04.476 HID Product Solutions[48470:438549] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:03:04.476 HID Product Solutions[48470:438549] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:03:04.477 HID Product Solutions[48470:438549] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1738064541",
+  "SocialSharing",
+  "share",
+  [
+    "Message only",
+    null,
+    [
+
+    ],
+    null
+  ]
+]
+2015-01-08 16:03:05.146 HID Product Solutions[48470:438549] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:03:05.146 HID Product Solutions[48470:438549] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:03:05.146 HID Product Solutions[48470:438549] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1738064542",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 16:03:05.459 HID Product Solutions[48470:438549] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:03:05.459 HID Product Solutions[48470:438549] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:03:05.459 HID Product Solutions[48470:438549] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1738064543",
+  "SocialSharing",
+  "share",
+  [
+    "Here is your PDF file",
+    "Your PDF",
+    [
+      "www\/files\/manual.pdf"
+    ],
+    null
+  ]
+]
+2015-01-08 16:16:58.467 HID Product Solutions[49878:448350] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/336FBA64-2E8A-4F35-9026-D8A7F7453D34/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:16:58.549 HID Product Solutions[49878:448350] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:16:58.550 HID Product Solutions[49878:448350] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:16:58.551 HID Product Solutions[49878:448350] Unlimited access to network resources
+2015-01-08 16:16:58.554 HID Product Solutions[49878:448350] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:16:58.722 HID Product Solutions[49878:448350] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:16:58.722 HID Product Solutions[49878:448350] [CDVTimer][socialsharing] 0.149012ms
+2015-01-08 16:16:58.742 HID Product Solutions[49878:448350] [CDVTimer][splashscreen] 19.371033ms
+2015-01-08 16:16:58.742 HID Product Solutions[49878:448350] [CDVTimer][TotalPluginStartup] 19.773960ms
+2015-01-08 16:16:58.774 HID Product Solutions[49878:448350] Resetting plugins due to page load.
+2015-01-08 16:16:58.961 HID Product Solutions[49878:448350] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/95C978FB-4B10-4F9A-96DA-464EAB53DF7C/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:17:03.394 HID Product Solutions[49878:448350] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:17:03.394 HID Product Solutions[49878:448350] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:17:03.394 HID Product Solutions[49878:448350] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1580724730",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:17:04.279 HID Product Solutions[49878:448350] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:17:04.279 HID Product Solutions[49878:448350] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:17:04.280 HID Product Solutions[49878:448350] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1580724731",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:17:04.450 HID Product Solutions[49878:448350] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:17:04.451 HID Product Solutions[49878:448350] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:17:04.451 HID Product Solutions[49878:448350] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1580724732",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:18:19.410 HID Product Solutions[49878:448350] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-08 16:18:19.417 HID Product Solutions[49878:448350] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:18:19.417 HID Product Solutions[49878:448350] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-08 16:18:19.418 HID Product Solutions[49878:448350] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-08 16:18:19.418 HID Product Solutions[49878:448350] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:18:19.418 HID Product Solutions[49878:448350] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-08 16:18:20.104 HID Product Solutions[49878:448350] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:18:20.104 HID Product Solutions[49878:448350] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:18:20.104 HID Product Solutions[49878:448350] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1580724733",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:18:20.262 HID Product Solutions[49878:448350] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:18:20.262 HID Product Solutions[49878:448350] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:18:20.263 HID Product Solutions[49878:448350] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1580724734",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:20:36.688 HID Product Solutions[50223:450856] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/318D6284-54E5-4941-9BC7-C117416C206C/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:20:36.773 HID Product Solutions[50223:450856] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:20:36.773 HID Product Solutions[50223:450856] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:20:36.774 HID Product Solutions[50223:450856] Unlimited access to network resources
+2015-01-08 16:20:36.776 HID Product Solutions[50223:450856] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:20:36.947 HID Product Solutions[50223:450856] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:20:36.947 HID Product Solutions[50223:450856] [CDVTimer][socialsharing] 0.181973ms
+2015-01-08 16:20:36.974 HID Product Solutions[50223:450856] [CDVTimer][splashscreen] 27.352035ms
+2015-01-08 16:20:36.974 HID Product Solutions[50223:450856] [CDVTimer][TotalPluginStartup] 27.825058ms
+2015-01-08 16:20:37.007 HID Product Solutions[50223:450856] Resetting plugins due to page load.
+2015-01-08 16:20:37.183 HID Product Solutions[50223:450856] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/C43C7CA3-B864-4B6B-9CDC-8946D81ABBFF/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:20:43.277 HID Product Solutions[50223:450856] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:20:43.277 HID Product Solutions[50223:450856] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:20:43.277 HID Product Solutions[50223:450856] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1945599424",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:20:43.786 HID Product Solutions[50223:450856] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:20:43.786 HID Product Solutions[50223:450856] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:20:43.786 HID Product Solutions[50223:450856] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1945599425",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:20:43.945 HID Product Solutions[50223:450856] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:20:43.945 HID Product Solutions[50223:450856] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:20:43.945 HID Product Solutions[50223:450856] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1945599426",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:24:33.662 HID Product Solutions[50223:450856] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:24:33.663 HID Product Solutions[50223:450856] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:24:33.663 HID Product Solutions[50223:450856] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1945599427",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:24:33.862 HID Product Solutions[50223:450856] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:24:33.862 HID Product Solutions[50223:450856] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:24:33.862 HID Product Solutions[50223:450856] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1945599428",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:25:41.221 HID Product Solutions[50536:453203] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/3C7C6C4A-97A9-486E-90E2-2BB2D99C0064/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:25:41.300 HID Product Solutions[50536:453203] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:25:41.300 HID Product Solutions[50536:453203] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:25:41.302 HID Product Solutions[50536:453203] Unlimited access to network resources
+2015-01-08 16:25:41.304 HID Product Solutions[50536:453203] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:25:41.463 HID Product Solutions[50536:453203] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:25:41.463 HID Product Solutions[50536:453203] [CDVTimer][socialsharing] 0.149965ms
+2015-01-08 16:25:41.486 HID Product Solutions[50536:453203] [CDVTimer][splashscreen] 22.234023ms
+2015-01-08 16:25:41.486 HID Product Solutions[50536:453203] [CDVTimer][TotalPluginStartup] 22.666991ms
+2015-01-08 16:25:41.519 HID Product Solutions[50536:453203] Resetting plugins due to page load.
+2015-01-08 16:25:41.696 HID Product Solutions[50536:453203] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/79FDB009-EA8A-4E33-8050-FC31FED66DBA/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:26:00.653 HID Product Solutions[50536:453203] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:26:00.653 HID Product Solutions[50536:453203] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:26:00.653 HID Product Solutions[50536:453203] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing408097323",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:26:01.370 HID Product Solutions[50536:453203] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:26:01.370 HID Product Solutions[50536:453203] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:26:01.370 HID Product Solutions[50536:453203] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing408097324",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:26:01.585 HID Product Solutions[50536:453203] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:26:01.586 HID Product Solutions[50536:453203] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:26:01.586 HID Product Solutions[50536:453203] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing408097325",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:26:45.647 HID Product Solutions[50789:454159] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/17C99047-42E9-4E45-9691-7CFB78EA113D/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:26:45.728 HID Product Solutions[50789:454159] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:26:45.728 HID Product Solutions[50789:454159] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:26:45.730 HID Product Solutions[50789:454159] Unlimited access to network resources
+2015-01-08 16:26:45.732 HID Product Solutions[50789:454159] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:26:45.891 HID Product Solutions[50789:454159] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:26:45.891 HID Product Solutions[50789:454159] [CDVTimer][socialsharing] 0.238001ms
+2015-01-08 16:26:45.917 HID Product Solutions[50789:454159] [CDVTimer][splashscreen] 25.605977ms
+2015-01-08 16:26:45.917 HID Product Solutions[50789:454159] [CDVTimer][TotalPluginStartup] 26.152015ms
+2015-01-08 16:26:45.950 HID Product Solutions[50789:454159] Resetting plugins due to page load.
+2015-01-08 16:26:46.122 HID Product Solutions[50789:454159] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/DBA569EF-BA57-44BC-92C8-6939C731E1F7/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:26:54.297 HID Product Solutions[50789:454159] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:26:54.298 HID Product Solutions[50789:454159] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:26:54.298 HID Product Solutions[50789:454159] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1598485638",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:26:54.962 HID Product Solutions[50789:454159] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:26:54.962 HID Product Solutions[50789:454159] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:26:54.963 HID Product Solutions[50789:454159] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1598485639",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:26:55.122 HID Product Solutions[50789:454159] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:26:55.123 HID Product Solutions[50789:454159] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:26:55.123 HID Product Solutions[50789:454159] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1598485640",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:33:26.649 HID Product Solutions[50789:454159] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-01-08 16:33:26.649 HID Product Solutions[50789:454159] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:33:26.650 HID Product Solutions[50789:454159] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser1598485641",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/google.com\/",
+    "_blank",
+    "location=yes"
+  ]
+]
+2015-01-08 16:33:27.156 HID Product Solutions[50789:454159] CDVPlugin class CDVInAppBrowser (pluginName: InAppBrowser) does not exist.
+2015-01-08 16:33:27.157 HID Product Solutions[50789:454159] ERROR: Plugin 'InAppBrowser' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:33:27.157 HID Product Solutions[50789:454159] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "InAppBrowser1598485642",
+  "InAppBrowser",
+  "open",
+  [
+    "http:\/\/google.com\/",
+    "_blank",
+    "location=yes"
+  ]
+]
+2015-01-08 16:33:53.565 HID Product Solutions[51136:457771] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/6371DF14-745B-4CBE-A08E-9EFB149FD00B/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:33:53.651 HID Product Solutions[51136:457771] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:33:53.651 HID Product Solutions[51136:457771] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:33:53.652 HID Product Solutions[51136:457771] Unlimited access to network resources
+2015-01-08 16:33:53.654 HID Product Solutions[51136:457771] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:33:53.821 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:33:53.821 HID Product Solutions[51136:457771] [CDVTimer][socialsharing] 0.150025ms
+2015-01-08 16:33:53.849 HID Product Solutions[51136:457771] [CDVTimer][splashscreen] 28.382003ms
+2015-01-08 16:33:53.849 HID Product Solutions[51136:457771] [CDVTimer][TotalPluginStartup] 28.793991ms
+2015-01-08 16:33:53.882 HID Product Solutions[51136:457771] Resetting plugins due to page load.
+2015-01-08 16:33:54.106 HID Product Solutions[51136:457771] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/5E5FE8B0-7B4F-47B5-8D17-4655C3301CAF/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:34:00.889 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:34:00.889 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:34:00.889 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081807",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:34:01.309 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:34:01.309 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:34:01.309 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081808",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:34:01.469 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:34:01.469 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:34:01.469 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081809",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:22.561 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:22.561 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:22.561 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081810",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:22.909 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:22.909 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:22.909 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081811",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:23.311 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:23.311 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:23.311 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081812",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:23.520 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:23.521 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:23.521 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081813",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:23.704 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:23.704 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:23.705 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081814",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:24.494 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:24.494 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:24.494 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081815",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:24.686 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:24.687 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:24.687 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081816",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:24.823 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:24.823 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:24.823 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081817",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:25.161 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:25.161 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:25.161 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081818",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:25.368 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:25.369 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:25.369 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081819",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:25.530 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:25.530 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:25.530 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081820",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:25.698 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:25.698 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:25.698 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081821",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:25.924 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:25.925 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:25.925 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081822",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:26.093 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:26.093 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:26.093 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081823",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:26.674 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:26.674 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:26.674 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081824",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:26.825 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:26.825 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:26.825 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081825",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:27.553 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:27.553 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:27.553 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081826",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:36:27.696 HID Product Solutions[51136:457771] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:36:27.696 HID Product Solutions[51136:457771] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:36:27.697 HID Product Solutions[51136:457771] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1686081827",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:41:17.540 HID Product Solutions[51515:461229] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/E1727FF1-3191-4A9D-A823-5C71E72C9E56/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:41:17.628 HID Product Solutions[51515:461229] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:41:17.629 HID Product Solutions[51515:461229] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:41:17.630 HID Product Solutions[51515:461229] Unlimited access to network resources
+2015-01-08 16:41:17.632 HID Product Solutions[51515:461229] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:41:17.797 HID Product Solutions[51515:461229] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:41:17.797 HID Product Solutions[51515:461229] [CDVTimer][socialsharing] 0.153005ms
+2015-01-08 16:41:17.813 HID Product Solutions[51515:461229] [CDVTimer][splashscreen] 16.089022ms
+2015-01-08 16:41:17.814 HID Product Solutions[51515:461229] [CDVTimer][TotalPluginStartup] 16.537011ms
+2015-01-08 16:41:17.854 HID Product Solutions[51515:461229] Resetting plugins due to page load.
+2015-01-08 16:41:18.066 HID Product Solutions[51515:461229] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/21798F6F-507C-4EE9-8BA4-F6143961383B/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:41:25.567 HID Product Solutions[51515:461229] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:41:25.567 HID Product Solutions[51515:461229] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:41:25.567 HID Product Solutions[51515:461229] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing880808898",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:41:26.382 HID Product Solutions[51515:461229] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:41:26.382 HID Product Solutions[51515:461229] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:41:26.383 HID Product Solutions[51515:461229] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing880808899",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:41:26.534 HID Product Solutions[51515:461229] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:41:26.534 HID Product Solutions[51515:461229] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:41:26.534 HID Product Solutions[51515:461229] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing880808900",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:42:19.032 HID Product Solutions[51778:462165] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/CB7E4E78-E50A-466C-84EE-8335DF9508F0/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:42:19.112 HID Product Solutions[51778:462165] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:42:19.113 HID Product Solutions[51778:462165] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:42:19.114 HID Product Solutions[51778:462165] Unlimited access to network resources
+2015-01-08 16:42:19.116 HID Product Solutions[51778:462165] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:42:19.285 HID Product Solutions[51778:462165] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:42:19.285 HID Product Solutions[51778:462165] [CDVTimer][socialsharing] 0.157952ms
+2015-01-08 16:42:19.301 HID Product Solutions[51778:462165] [CDVTimer][splashscreen] 15.815020ms
+2015-01-08 16:42:19.301 HID Product Solutions[51778:462165] [CDVTimer][TotalPluginStartup] 16.278982ms
+2015-01-08 16:42:19.342 HID Product Solutions[51778:462165] Resetting plugins due to page load.
+2015-01-08 16:42:19.514 HID Product Solutions[51778:462165] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/5F835187-3330-4233-AE03-844B5DFF9B54/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:42:32.386 HID Product Solutions[51778:462165] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:42:32.386 HID Product Solutions[51778:462165] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:42:32.386 HID Product Solutions[51778:462165] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1172816157",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:42:32.864 HID Product Solutions[51778:462165] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:42:32.864 HID Product Solutions[51778:462165] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:42:32.864 HID Product Solutions[51778:462165] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1172816158",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:42:32.992 HID Product Solutions[51778:462165] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:42:32.992 HID Product Solutions[51778:462165] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:42:32.992 HID Product Solutions[51778:462165] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1172816159",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:51:48.915 HID Product Solutions[52215:467396] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/8A5F058F-5720-48F4-A354-D4E13CF620A2/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:51:49.002 HID Product Solutions[52215:467396] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:51:49.002 HID Product Solutions[52215:467396] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:51:49.004 HID Product Solutions[52215:467396] Unlimited access to network resources
+2015-01-08 16:51:49.006 HID Product Solutions[52215:467396] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:51:49.170 HID Product Solutions[52215:467396] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:51:49.170 HID Product Solutions[52215:467396] [CDVTimer][socialsharing] 0.149965ms
+2015-01-08 16:51:49.203 HID Product Solutions[52215:467396] [CDVTimer][splashscreen] 32.438993ms
+2015-01-08 16:51:49.203 HID Product Solutions[52215:467396] [CDVTimer][TotalPluginStartup] 32.939017ms
+2015-01-08 16:51:49.238 HID Product Solutions[52215:467396] Resetting plugins due to page load.
+2015-01-08 16:51:49.417 HID Product Solutions[52215:467396] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/2DC6A72E-C4CB-40DE-B69C-816073811CE8/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:51:58.561 HID Product Solutions[52215:467396] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:51:58.561 HID Product Solutions[52215:467396] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:51:58.562 HID Product Solutions[52215:467396] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1392540640",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:51:59.100 HID Product Solutions[52215:467396] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:51:59.100 HID Product Solutions[52215:467396] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:51:59.101 HID Product Solutions[52215:467396] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1392540641",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:51:59.253 HID Product Solutions[52215:467396] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:51:59.253 HID Product Solutions[52215:467396] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:51:59.253 HID Product Solutions[52215:467396] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1392540642",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:52:39.454 HID Product Solutions[52471:468320] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/86F1C7BF-DAD6-4255-812C-805BB98AFDF9/Library/Cookies/Cookies.binarycookies
+2015-01-08 16:52:39.526 HID Product Solutions[52471:468320] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 16:52:39.527 HID Product Solutions[52471:468320] Multi-tasking -> Device: YES, App: YES
+2015-01-08 16:52:39.528 HID Product Solutions[52471:468320] Unlimited access to network resources
+2015-01-08 16:52:39.530 HID Product Solutions[52471:468320] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 16:52:39.691 HID Product Solutions[52471:468320] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 16:52:39.691 HID Product Solutions[52471:468320] [CDVTimer][socialsharing] 0.147998ms
+2015-01-08 16:52:39.719 HID Product Solutions[52471:468320] [CDVTimer][splashscreen] 27.568996ms
+2015-01-08 16:52:39.719 HID Product Solutions[52471:468320] [CDVTimer][TotalPluginStartup] 28.035998ms
+2015-01-08 16:52:39.755 HID Product Solutions[52471:468320] Resetting plugins due to page load.
+2015-01-08 16:52:39.929 HID Product Solutions[52471:468320] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/41A2EDC5-7E5D-4499-9B7C-5BE7D6E02259/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 16:52:47.937 HID Product Solutions[52471:468320] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:52:47.937 HID Product Solutions[52471:468320] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:52:47.938 HID Product Solutions[52471:468320] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing279606013",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:52:48.519 HID Product Solutions[52471:468320] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:52:48.519 HID Product Solutions[52471:468320] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:52:48.520 HID Product Solutions[52471:468320] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing279606014",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 16:52:48.671 HID Product Solutions[52471:468320] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 16:52:48.671 HID Product Solutions[52471:468320] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 16:52:48.671 HID Product Solutions[52471:468320] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing279606015",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
