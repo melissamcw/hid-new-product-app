@@ -61,9 +61,7 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/cordova_plugins.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/css \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/dish.html \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/dishes.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/food-menu.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/friends.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/gallery.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/gallery2.html \
@@ -82,6 +80,7 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/photo.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins.html \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/printer.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/printers.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/product-lines.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/profile.html \
