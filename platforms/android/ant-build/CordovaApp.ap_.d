@@ -111,6 +111,7 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/logo.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/menu \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/place.png \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/plugins.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/profiles \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/sushi-bg.jpg \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/gallery/01.png \
@@ -149,6 +150,7 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js/index.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js/jquery.min.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js/plugins.js \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js/SocialSharing.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/lib/onsen \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/lib/onsen/css \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/lib/onsen/js \
