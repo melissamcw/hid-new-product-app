@@ -520,3 +520,426 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
 2015-01-08 13:42:39.822 HID Product Solutions[35840:355860] [CDVTimer][TotalPluginStartup] 51.640987ms
 2015-01-08 13:42:39.857 HID Product Solutions[35840:355860] Resetting plugins due to page load.
 2015-01-08 13:42:40.065 HID Product Solutions[35840:355860] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/63D228F3-E258-4A8C-9741-D441F80ABAD7/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 13:57:36.466 HID Product Solutions[36452:362672] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/6FC0F09B-C149-4D5D-BACE-30C16D4EC3F9/Library/Cookies/Cookies.binarycookies
+2015-01-08 13:57:36.552 HID Product Solutions[36452:362672] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 13:57:36.553 HID Product Solutions[36452:362672] Multi-tasking -> Device: YES, App: YES
+2015-01-08 13:57:36.554 HID Product Solutions[36452:362672] Unlimited access to network resources
+2015-01-08 13:57:36.556 HID Product Solutions[36452:362672] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 13:57:36.747 HID Product Solutions[36452:362672] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 13:57:36.748 HID Product Solutions[36452:362672] [CDVTimer][socialsharing] 0.158012ms
+2015-01-08 13:57:36.801 HID Product Solutions[36452:362672] [CDVTimer][splashscreen] 53.196967ms
+2015-01-08 13:57:36.801 HID Product Solutions[36452:362672] [CDVTimer][TotalPluginStartup] 53.655028ms
+2015-01-08 13:57:36.834 HID Product Solutions[36452:362672] Resetting plugins due to page load.
+2015-01-08 13:57:37.038 HID Product Solutions[36452:362672] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/F9E915E9-4812-42C7-A4F9-CF17B40947FF/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 13:58:55.028 HID Product Solutions[36718:363962] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/2EDD86A6-DA25-49F1-94C1-475178101EDB/Library/Cookies/Cookies.binarycookies
+2015-01-08 13:58:55.100 HID Product Solutions[36718:363962] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 13:58:55.101 HID Product Solutions[36718:363962] Multi-tasking -> Device: YES, App: YES
+2015-01-08 13:58:55.102 HID Product Solutions[36718:363962] Unlimited access to network resources
+2015-01-08 13:58:55.104 HID Product Solutions[36718:363962] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 13:58:55.268 HID Product Solutions[36718:363962] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 13:58:55.269 HID Product Solutions[36718:363962] [CDVTimer][socialsharing] 0.154018ms
+2015-01-08 13:58:55.285 HID Product Solutions[36718:363962] [CDVTimer][splashscreen] 16.805053ms
+2015-01-08 13:58:55.286 HID Product Solutions[36718:363962] [CDVTimer][TotalPluginStartup] 17.249048ms
+2015-01-08 13:58:55.318 HID Product Solutions[36718:363962] Resetting plugins due to page load.
+2015-01-08 13:58:55.526 HID Product Solutions[36718:363962] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/BCEFCE5C-381A-4280-9442-3820FD9C082A/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:03:02.395 HID Product Solutions[37038:366306] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/81434D3E-DA7A-4D2E-9231-DFCEA8A7EAA2/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:03:02.468 HID Product Solutions[37038:366306] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:03:02.468 HID Product Solutions[37038:366306] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:03:02.469 HID Product Solutions[37038:366306] Unlimited access to network resources
+2015-01-08 14:03:02.471 HID Product Solutions[37038:366306] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:03:02.634 HID Product Solutions[37038:366306] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:03:02.634 HID Product Solutions[37038:366306] [CDVTimer][socialsharing] 0.151992ms
+2015-01-08 14:03:02.660 HID Product Solutions[37038:366306] [CDVTimer][splashscreen] 25.915980ms
+2015-01-08 14:03:02.660 HID Product Solutions[37038:366306] [CDVTimer][TotalPluginStartup] 26.389003ms
+2015-01-08 14:03:02.693 HID Product Solutions[37038:366306] Resetting plugins due to page load.
+2015-01-08 14:03:02.870 HID Product Solutions[37038:366306] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/F545F960-6758-416B-8D0E-6DC7D6454B7B/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:18:09.358 HID Product Solutions[37494:373731] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/CBC17257-D5C4-4BD7-96FA-82EE62EA3FA6/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:18:09.616 HID Product Solutions[37494:373731] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:18:09.616 HID Product Solutions[37494:373731] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:18:09.631 HID Product Solutions[37494:373731] Unlimited access to network resources
+2015-01-08 14:18:09.640 HID Product Solutions[37494:373731] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:18:10.002 HID Product Solutions[37494:373731] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:18:10.002 HID Product Solutions[37494:373731] [CDVTimer][socialsharing] 0.147998ms
+2015-01-08 14:18:10.138 HID Product Solutions[37494:373731] [CDVTimer][splashscreen] 135.621011ms
+2015-01-08 14:18:10.138 HID Product Solutions[37494:373731] [CDVTimer][TotalPluginStartup] 136.427045ms
+2015-01-08 14:18:10.209 HID Product Solutions[37494:373731] Resetting plugins due to page load.
+2015-01-08 14:18:10.587 HID Product Solutions[37494:373731] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/E369FE35-FA69-4BD4-A2C3-76AC0E45E68E/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:21:09.095 HID Product Solutions[37775:375781] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/00BF4B07-3E39-463A-8207-92966AFF6B6D/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:21:09.180 HID Product Solutions[37775:375781] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:21:09.181 HID Product Solutions[37775:375781] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:21:09.182 HID Product Solutions[37775:375781] Unlimited access to network resources
+2015-01-08 14:21:09.184 HID Product Solutions[37775:375781] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:21:09.355 HID Product Solutions[37775:375781] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:21:09.355 HID Product Solutions[37775:375781] [CDVTimer][socialsharing] 0.145018ms
+2015-01-08 14:21:09.382 HID Product Solutions[37775:375781] [CDVTimer][splashscreen] 26.000977ms
+2015-01-08 14:21:09.382 HID Product Solutions[37775:375781] [CDVTimer][TotalPluginStartup] 26.402950ms
+2015-01-08 14:21:09.414 HID Product Solutions[37775:375781] Resetting plugins due to page load.
+2015-01-08 14:21:09.597 HID Product Solutions[37775:375781] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/6B4F2FEB-043C-4F6C-8EE1-FE028AD2A9AD/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:29:46.035 HID Product Solutions[38181:380602] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/D310B158-D56A-45A1-A62E-380AE663E2EF/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:29:46.121 HID Product Solutions[38181:380602] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:29:46.122 HID Product Solutions[38181:380602] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:29:46.123 HID Product Solutions[38181:380602] Unlimited access to network resources
+2015-01-08 14:29:46.125 HID Product Solutions[38181:380602] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:29:46.296 HID Product Solutions[38181:380602] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:29:46.296 HID Product Solutions[38181:380602] [CDVTimer][socialsharing] 0.140965ms
+2015-01-08 14:29:46.345 HID Product Solutions[38181:380602] [CDVTimer][splashscreen] 49.012005ms
+2015-01-08 14:29:46.346 HID Product Solutions[38181:380602] [CDVTimer][TotalPluginStartup] 49.468040ms
+2015-01-08 14:29:46.380 HID Product Solutions[38181:380602] Resetting plugins due to page load.
+2015-01-08 14:29:46.570 HID Product Solutions[38181:380602] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/693701D6-6272-479E-B78F-1C1F539499AF/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:30:56.203 HID Product Solutions[38447:381942] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/472224EA-8E76-4FBD-82B6-231C9ABAA9AA/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:30:56.277 HID Product Solutions[38447:381942] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:30:56.278 HID Product Solutions[38447:381942] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:30:56.279 HID Product Solutions[38447:381942] Unlimited access to network resources
+2015-01-08 14:30:56.281 HID Product Solutions[38447:381942] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:30:56.444 HID Product Solutions[38447:381942] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:30:56.444 HID Product Solutions[38447:381942] [CDVTimer][socialsharing] 0.146031ms
+2015-01-08 14:30:56.470 HID Product Solutions[38447:381942] [CDVTimer][splashscreen] 25.505006ms
+2015-01-08 14:30:56.470 HID Product Solutions[38447:381942] [CDVTimer][TotalPluginStartup] 25.966048ms
+2015-01-08 14:30:56.504 HID Product Solutions[38447:381942] Resetting plugins due to page load.
+2015-01-08 14:30:56.721 HID Product Solutions[38447:381942] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/B7F9D7C8-945C-4379-A9AA-CEE75D77369C/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:33:25.996 HID Product Solutions[38769:383854] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/0270ED62-ACEC-481B-88E1-9579252D5F44/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:33:26.071 HID Product Solutions[38769:383854] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:33:26.071 HID Product Solutions[38769:383854] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:33:26.073 HID Product Solutions[38769:383854] Unlimited access to network resources
+2015-01-08 14:33:26.075 HID Product Solutions[38769:383854] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:33:26.236 HID Product Solutions[38769:383854] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:33:26.236 HID Product Solutions[38769:383854] [CDVTimer][socialsharing] 0.146985ms
+2015-01-08 14:33:26.263 HID Product Solutions[38769:383854] [CDVTimer][splashscreen] 26.812017ms
+2015-01-08 14:33:26.263 HID Product Solutions[38769:383854] [CDVTimer][TotalPluginStartup] 27.291954ms
+2015-01-08 14:33:26.299 HID Product Solutions[38769:383854] Resetting plugins due to page load.
+2015-01-08 14:33:26.473 HID Product Solutions[38769:383854] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/C8532A5D-9AEC-4F09-A277-D53DB2527166/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:34:13.654 HID Product Solutions[39021:384850] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/3FA9A292-148E-49C3-8A3A-667F92760A45/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:34:13.727 HID Product Solutions[39021:384850] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:34:13.727 HID Product Solutions[39021:384850] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:34:13.728 HID Product Solutions[39021:384850] Unlimited access to network resources
+2015-01-08 14:34:13.730 HID Product Solutions[39021:384850] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:34:13.891 HID Product Solutions[39021:384850] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:34:13.892 HID Product Solutions[39021:384850] [CDVTimer][socialsharing] 0.153959ms
+2015-01-08 14:34:13.917 HID Product Solutions[39021:384850] [CDVTimer][splashscreen] 25.601983ms
+2015-01-08 14:34:13.917 HID Product Solutions[39021:384850] [CDVTimer][TotalPluginStartup] 26.072025ms
+2015-01-08 14:34:13.950 HID Product Solutions[39021:384850] Resetting plugins due to page load.
+2015-01-08 14:34:14.128 HID Product Solutions[39021:384850] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/DFF8B516-4CF8-4600-97DD-ECE539DDF11F/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:35:57.792 HID Product Solutions[39315:386223] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/FAEDA3AD-E192-438A-A307-801959C1F114/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:35:57.866 HID Product Solutions[39315:386223] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:35:57.867 HID Product Solutions[39315:386223] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:35:57.868 HID Product Solutions[39315:386223] Unlimited access to network resources
+2015-01-08 14:35:57.870 HID Product Solutions[39315:386223] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:35:58.035 HID Product Solutions[39315:386223] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:35:58.036 HID Product Solutions[39315:386223] [CDVTimer][socialsharing] 0.146985ms
+2015-01-08 14:35:58.078 HID Product Solutions[39315:386223] [CDVTimer][splashscreen] 42.716026ms
+2015-01-08 14:35:58.079 HID Product Solutions[39315:386223] [CDVTimer][TotalPluginStartup] 43.152988ms
+2015-01-08 14:35:58.114 HID Product Solutions[39315:386223] Resetting plugins due to page load.
+2015-01-08 14:35:58.302 HID Product Solutions[39315:386223] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/85B9AB58-53BF-485E-B407-15EB7763A84E/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:37:35.781 HID Product Solutions[39602:387781] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/9D7EA612-D54D-4A04-9CF5-18BC8499E321/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:37:35.872 HID Product Solutions[39602:387781] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:37:35.872 HID Product Solutions[39602:387781] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:37:35.874 HID Product Solutions[39602:387781] Unlimited access to network resources
+2015-01-08 14:37:35.876 HID Product Solutions[39602:387781] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:37:36.054 HID Product Solutions[39602:387781] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:37:36.054 HID Product Solutions[39602:387781] [CDVTimer][socialsharing] 0.213027ms
+2015-01-08 14:37:36.069 HID Product Solutions[39602:387781] [CDVTimer][splashscreen] 15.284002ms
+2015-01-08 14:37:36.069 HID Product Solutions[39602:387781] [CDVTimer][TotalPluginStartup] 15.854001ms
+2015-01-08 14:37:36.114 HID Product Solutions[39602:387781] Resetting plugins due to page load.
+2015-01-08 14:37:36.307 HID Product Solutions[39602:387781] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/947CB425-F9B7-4BF1-8472-85967EC3BBCE/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:41:01.155 HID Product Solutions[39909:389459] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/3F78E6AF-D157-43D3-BBD1-404BC868A10E/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:41:01.236 HID Product Solutions[39909:389459] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:41:01.237 HID Product Solutions[39909:389459] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:41:01.238 HID Product Solutions[39909:389459] Unlimited access to network resources
+2015-01-08 14:41:01.241 HID Product Solutions[39909:389459] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:41:01.410 HID Product Solutions[39909:389459] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:41:01.410 HID Product Solutions[39909:389459] [CDVTimer][socialsharing] 0.261009ms
+2015-01-08 14:41:01.424 HID Product Solutions[39909:389459] [CDVTimer][splashscreen] 14.393032ms
+2015-01-08 14:41:01.424 HID Product Solutions[39909:389459] [CDVTimer][TotalPluginStartup] 14.945030ms
+2015-01-08 14:41:01.465 HID Product Solutions[39909:389459] Resetting plugins due to page load.
+2015-01-08 14:41:01.641 HID Product Solutions[39909:389459] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/C75B8CDC-54BD-40C0-B205-FA3F7CD4675F/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:45:45.198 HID Product Solutions[40214:391677] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/0AA591FA-02A6-452D-972F-26B52B3ABEBB/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:45:45.297 HID Product Solutions[40214:391677] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:45:45.297 HID Product Solutions[40214:391677] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:45:45.299 HID Product Solutions[40214:391677] Unlimited access to network resources
+2015-01-08 14:45:45.301 HID Product Solutions[40214:391677] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:45:45.466 HID Product Solutions[40214:391677] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:45:45.466 HID Product Solutions[40214:391677] [CDVTimer][socialsharing] 0.146985ms
+2015-01-08 14:45:45.480 HID Product Solutions[40214:391677] [CDVTimer][splashscreen] 13.952971ms
+2015-01-08 14:45:45.480 HID Product Solutions[40214:391677] [CDVTimer][TotalPluginStartup] 14.412999ms
+2015-01-08 14:45:45.524 HID Product Solutions[40214:391677] Resetting plugins due to page load.
+2015-01-08 14:45:45.713 HID Product Solutions[40214:391677] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/6471D21D-8A35-41F7-9632-C6CD235A25A7/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:51:00.809 HID Product Solutions[40551:394324] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/4E606952-FC3B-47DB-ADBF-670B3C2352DB/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:51:00.892 HID Product Solutions[40551:394324] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:51:00.892 HID Product Solutions[40551:394324] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:51:00.894 HID Product Solutions[40551:394324] Unlimited access to network resources
+2015-01-08 14:51:00.896 HID Product Solutions[40551:394324] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:51:01.072 HID Product Solutions[40551:394324] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:51:01.073 HID Product Solutions[40551:394324] [CDVTimer][socialsharing] 0.153005ms
+2015-01-08 14:51:01.119 HID Product Solutions[40551:394324] [CDVTimer][splashscreen] 46.615005ms
+2015-01-08 14:51:01.120 HID Product Solutions[40551:394324] [CDVTimer][TotalPluginStartup] 47.063947ms
+2015-01-08 14:51:01.152 HID Product Solutions[40551:394324] Resetting plugins due to page load.
+2015-01-08 14:51:01.380 HID Product Solutions[40551:394324] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/FAEC2AC7-DF44-43B3-A529-E665E6D2582F/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 14:51:57.535 HID Product Solutions[40811:395362] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/A2D5D80F-25B2-48DA-9B96-7FDC254AAA52/Library/Cookies/Cookies.binarycookies
+2015-01-08 14:51:57.611 HID Product Solutions[40811:395362] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 14:51:57.612 HID Product Solutions[40811:395362] Multi-tasking -> Device: YES, App: YES
+2015-01-08 14:51:57.613 HID Product Solutions[40811:395362] Unlimited access to network resources
+2015-01-08 14:51:57.615 HID Product Solutions[40811:395362] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 14:51:57.776 HID Product Solutions[40811:395362] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 14:51:57.776 HID Product Solutions[40811:395362] [CDVTimer][socialsharing] 0.147998ms
+2015-01-08 14:51:57.803 HID Product Solutions[40811:395362] [CDVTimer][splashscreen] 26.845992ms
+2015-01-08 14:51:57.803 HID Product Solutions[40811:395362] [CDVTimer][TotalPluginStartup] 27.309000ms
+2015-01-08 14:51:57.838 HID Product Solutions[40811:395362] Resetting plugins due to page load.
+2015-01-08 14:51:58.039 HID Product Solutions[40811:395362] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/33E77F86-7A87-4C0E-A3EE-6E6F86329E89/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:05:41.895 HID Product Solutions[43625:404576] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/AA1C5BE3-952F-4F81-9BB7-39627B77C341/Library/Cookies/Cookies.binarycookies
+2015-01-08 15:05:41.981 HID Product Solutions[43625:404576] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 15:05:41.982 HID Product Solutions[43625:404576] Multi-tasking -> Device: YES, App: YES
+2015-01-08 15:05:41.983 HID Product Solutions[43625:404576] Unlimited access to network resources
+2015-01-08 15:05:41.985 HID Product Solutions[43625:404576] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 15:05:42.183 HID Product Solutions[43625:404576] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 15:05:42.183 HID Product Solutions[43625:404576] [CDVTimer][socialsharing] 0.150979ms
+2015-01-08 15:05:42.233 HID Product Solutions[43625:404576] [CDVTimer][splashscreen] 49.890041ms
+2015-01-08 15:05:42.233 HID Product Solutions[43625:404576] [CDVTimer][TotalPluginStartup] 50.342023ms
+2015-01-08 15:05:42.268 HID Product Solutions[43625:404576] Resetting plugins due to page load.
+2015-01-08 15:05:42.478 HID Product Solutions[43625:404576] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/025D6802-F328-4B0E-9A33-F2F36C501297/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:09:21.887 HID Product Solutions[43919:406683] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/194E4294-3E8D-4916-BC49-481F4D34BCAA/Library/Cookies/Cookies.binarycookies
+2015-01-08 15:09:21.972 HID Product Solutions[43919:406683] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 15:09:21.973 HID Product Solutions[43919:406683] Multi-tasking -> Device: YES, App: YES
+2015-01-08 15:09:21.974 HID Product Solutions[43919:406683] Unlimited access to network resources
+2015-01-08 15:09:21.976 HID Product Solutions[43919:406683] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 15:09:22.141 HID Product Solutions[43919:406683] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 15:09:22.141 HID Product Solutions[43919:406683] [CDVTimer][socialsharing] 0.146985ms
+2015-01-08 15:09:22.157 HID Product Solutions[43919:406683] [CDVTimer][splashscreen] 15.197039ms
+2015-01-08 15:09:22.157 HID Product Solutions[43919:406683] [CDVTimer][TotalPluginStartup] 15.639007ms
+2015-01-08 15:09:22.199 HID Product Solutions[43919:406683] Resetting plugins due to page load.
+2015-01-08 15:09:22.377 HID Product Solutions[43919:406683] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/B87A98F9-2A39-43E1-81CA-A3D87DD5BACC/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:13:02.134 HID Product Solutions[44262:408852] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/5321A4F7-1B38-4E5A-B443-2F59C9872157/Library/Cookies/Cookies.binarycookies
+2015-01-08 15:13:02.225 HID Product Solutions[44262:408852] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 15:13:02.225 HID Product Solutions[44262:408852] Multi-tasking -> Device: YES, App: YES
+2015-01-08 15:13:02.226 HID Product Solutions[44262:408852] Unlimited access to network resources
+2015-01-08 15:13:02.228 HID Product Solutions[44262:408852] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 15:13:02.396 HID Product Solutions[44262:408852] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 15:13:02.397 HID Product Solutions[44262:408852] [CDVTimer][socialsharing] 0.145018ms
+2015-01-08 15:13:02.411 HID Product Solutions[44262:408852] [CDVTimer][splashscreen] 14.066994ms
+2015-01-08 15:13:02.411 HID Product Solutions[44262:408852] [CDVTimer][TotalPluginStartup] 14.487028ms
+2015-01-08 15:13:02.451 HID Product Solutions[44262:408852] Resetting plugins due to page load.
+2015-01-08 15:13:02.636 HID Product Solutions[44262:408852] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/996FF468-8AFA-4829-95A9-CB33A69A0253/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:14:12.899 HID Product Solutions[44525:409819] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/5C4A3921-A432-4B39-9B0C-31590EF90FDB/Library/Cookies/Cookies.binarycookies
+2015-01-08 15:14:13.004 HID Product Solutions[44525:409819] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 15:14:13.005 HID Product Solutions[44525:409819] Multi-tasking -> Device: YES, App: YES
+2015-01-08 15:14:13.006 HID Product Solutions[44525:409819] Unlimited access to network resources
+2015-01-08 15:14:13.008 HID Product Solutions[44525:409819] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 15:14:13.180 HID Product Solutions[44525:409819] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 15:14:13.180 HID Product Solutions[44525:409819] [CDVTimer][socialsharing] 0.149012ms
+2015-01-08 15:14:13.194 HID Product Solutions[44525:409819] [CDVTimer][splashscreen] 13.666987ms
+2015-01-08 15:14:13.194 HID Product Solutions[44525:409819] [CDVTimer][TotalPluginStartup] 14.081001ms
+2015-01-08 15:14:13.233 HID Product Solutions[44525:409819] Resetting plugins due to page load.
+2015-01-08 15:14:13.411 HID Product Solutions[44525:409819] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/30D30588-6F00-45A1-B97D-3B3BD65DF5FC/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:16:08.193 HID Product Solutions[44817:411283] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/2C5C0947-6D28-47FD-A3BC-AF6D1AFECFFA/Library/Cookies/Cookies.binarycookies
+2015-01-08 15:16:08.281 HID Product Solutions[44817:411283] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 15:16:08.282 HID Product Solutions[44817:411283] Multi-tasking -> Device: YES, App: YES
+2015-01-08 15:16:08.283 HID Product Solutions[44817:411283] Unlimited access to network resources
+2015-01-08 15:16:08.285 HID Product Solutions[44817:411283] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 15:16:08.451 HID Product Solutions[44817:411283] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 15:16:08.451 HID Product Solutions[44817:411283] [CDVTimer][socialsharing] 0.150979ms
+2015-01-08 15:16:08.465 HID Product Solutions[44817:411283] [CDVTimer][splashscreen] 14.414012ms
+2015-01-08 15:16:08.466 HID Product Solutions[44817:411283] [CDVTimer][TotalPluginStartup] 14.826000ms
+2015-01-08 15:16:08.506 HID Product Solutions[44817:411283] Resetting plugins due to page load.
+2015-01-08 15:16:08.677 HID Product Solutions[44817:411283] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/42774CE3-2B9D-4131-A66C-0E30049B23C7/HID%20Product%20Solutions.app/www/index.html
+2015-01-08 15:16:13.963 HID Product Solutions[44817:411283] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:16:13.963 HID Product Solutions[44817:411283] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:16:13.964 HID Product Solutions[44817:411283] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1259458464",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:16:15.121 HID Product Solutions[44817:411283] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:16:15.122 HID Product Solutions[44817:411283] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:16:15.122 HID Product Solutions[44817:411283] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1259458465",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:16:15.564 HID Product Solutions[44817:411283] CDVPlugin class SocialSharing (pluginName: SocialSharing) does not exist.
+2015-01-08 15:16:15.564 HID Product Solutions[44817:411283] ERROR: Plugin 'SocialSharing' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-08 15:16:15.564 HID Product Solutions[44817:411283] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "SocialSharing1259458466",
+  "SocialSharing",
+  "share",
+  [
+    "Message, image and link",
+    null,
+    [
+      "https:\/\/www.google.com\/images\/srpr\/logo4w.png"
+    ],
+    "http:\/\/www.google.com"
+  ]
+]
+2015-01-08 15:16:30.007 HID Product Solutions[45053:411911] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/4ACB503B-75A7-44D4-A953-B1AA9DDA6E4F/Library/Cookies/Cookies.binarycookies
+2015-01-08 15:16:30.112 HID Product Solutions[45053:411911] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-08 15:16:30.113 HID Product Solutions[45053:411911] Multi-tasking -> Device: YES, App: YES
+2015-01-08 15:16:30.114 HID Product Solutions[45053:411911] Unlimited access to network resources
+2015-01-08 15:16:30.116 HID Product Solutions[45053:411911] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-08 15:16:30.285 HID Product Solutions[45053:411911] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-08 15:16:30.285 HID Product Solutions[45053:411911] [CDVTimer][socialsharing] 0.153005ms
+2015-01-08 15:16:30.299 HID Product Solutions[45053:411911] [CDVTimer][splashscreen] 13.876975ms
+2015-01-08 15:16:30.299 HID Product Solutions[45053:411911] [CDVTimer][TotalPluginStartup] 14.303029ms
+2015-01-08 15:16:30.339 HID Product Solutions[45053:411911] Resetting plugins due to page load.
+2015-01-08 15:16:30.512 HID Product Solutions[45053:411911] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/D2CCAFE6-ECB1-4170-82D3-D8F380E15CA2/HID%20Product%20Solutions.app/www/index.html
