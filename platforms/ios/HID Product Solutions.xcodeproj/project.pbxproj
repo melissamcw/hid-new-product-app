@@ -44,6 +44,7 @@
 		FAFA0AACBB7E4513B456DAF9 /* CDVInAppBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = 765641A1E62E4773BC3AA977 /* CDVInAppBrowser.m */; };
 		A11E4133F4F1489EA597CB83 /* DatePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = 87E73E5A0B644C6A9B712A78 /* DatePicker.m */; };
 		9C650D2018AD4A65B2A0B01E /* DatePicker.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8F49964DBB2149D68D605F97 /* DatePicker.xib */; };
+		18407A9FBE06476EA8E2E35F /* CDVSplashScreen.m in Sources */ = {isa = PBXBuildFile; fileRef = E1EBCB33BBE84CFD820C4B67 /* CDVSplashScreen.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -118,6 +119,8 @@
 		87E73E5A0B644C6A9B712A78 /* DatePicker.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "DatePicker.m"; path = "com.plugin.datepicker/DatePicker.m"; sourceTree = "<group>"; fileEncoding = 4; };
 		E30871CB4D1D4C98984CBFDB /* DatePicker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "DatePicker.h"; path = "com.plugin.datepicker/DatePicker.h"; sourceTree = "<group>"; fileEncoding = 4; };
 		8F49964DBB2149D68D605F97 /* DatePicker.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = "DatePicker.xib"; path = "DatePicker.xib"; sourceTree = "<group>"; fileEncoding = 4; };
+		E1EBCB33BBE84CFD820C4B67 /* CDVSplashScreen.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = "CDVSplashScreen.m"; path = "org.apache.cordova.splashscreen/CDVSplashScreen.m"; sourceTree = "<group>"; fileEncoding = 4; };
+		370BEC006AA14993BAF0BC56 /* CDVSplashScreen.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "CDVSplashScreen.h"; path = "org.apache.cordova.splashscreen/CDVSplashScreen.h"; sourceTree = "<group>"; fileEncoding = 4; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -249,6 +252,8 @@
 				AD42422D9EA9406491166079 /* CDVInAppBrowser.h */,
 				87E73E5A0B644C6A9B712A78 /* DatePicker.m */,
 				E30871CB4D1D4C98984CBFDB /* DatePicker.h */,
+				E1EBCB33BBE84CFD820C4B67 /* CDVSplashScreen.m */,
+				370BEC006AA14993BAF0BC56 /* CDVSplashScreen.h */,
 			);
 			name = Plugins;
 			path = "HID Product Solutions/Plugins";
@@ -448,6 +453,7 @@
 				00D0D76FA00B41A781FFB91C /* SocialSharing.m in Sources */,
 				FAFA0AACBB7E4513B456DAF9 /* CDVInAppBrowser.m in Sources */,
 				A11E4133F4F1489EA597CB83 /* DatePicker.m in Sources */,
+				18407A9FBE06476EA8E2E35F /* CDVSplashScreen.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
