@@ -22,7 +22,7 @@
                     "CoreGraphics.framework": [
                         {
                             "xml": "false",
-                            "count": 1
+                            "count": 2
                         }
                     ]
                 }
@@ -45,6 +45,10 @@
                         {
                             "xml": "<feature name=\"DatePicker\"><param name=\"ios-package\" value=\"DatePicker\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"SplashScreen\"><param name=\"ios-package\" value=\"CDVSplashScreen\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -63,6 +67,9 @@
         },
         "com.plugin.datepicker": {
             "PACKAGE_NAME": "com.restaurant.start"
+        },
+        "org.apache.cordova.splashscreen": {
+            "PACKAGE_NAME": "com.example.HidProductAppNew"
         }
     },
     "dependent_plugins": {}

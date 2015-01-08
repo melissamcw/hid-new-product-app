@@ -40,4 +40,5 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowser.class \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppBrowserDialog.class \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/classes/org/apache/cordova/inappbrowser/InAppChromeClient.class \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/classes/org/apache/cordova/splashscreen/SplashScreen.class \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/ant-build/dexedLibs/classes-fbac29ea5bbf5cc112a93f8661f8cbbc.jar \

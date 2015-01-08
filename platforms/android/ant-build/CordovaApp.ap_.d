@@ -82,6 +82,8 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/photo.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins.html \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/printers.html \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/product-lines.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/profile.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/settings \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/settings.html \
@@ -123,6 +125,7 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/gallery/09.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/gallery/10.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/gallery/11.png \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/gallery/printer.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/gallery/ramen.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/menu/breakfast.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/menu/card-printers.png \
@@ -190,6 +193,7 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/de.appplant.cordova.plugin.email-composer \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/nl.x-services.plugins.socialsharing \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/org.apache.cordova.inappbrowser \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/com.plugin.datepicker/www \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/com.plugin.datepicker/www/android \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/com.plugin.datepicker/www/android/DatePicker.js \
@@ -199,6 +203,8 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/nl.x-services.plugins.socialsharing/www/SocialSharing.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/org.apache.cordova.inappbrowser/www \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/org.apache.cordova.inappbrowser/www/inappbrowser.js \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/plugins/org.apache.cordova.splashscreen/www/splashscreen.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/settings/checkbox.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/settings/headers.html \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/settings/icons-list.html \
