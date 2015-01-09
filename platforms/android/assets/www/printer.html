@@ -1,35 +1,29 @@
-<ons-navigator animation="slide" var="category">   
   <ons-page>
     <ons-toolbar modifier="opacity">
     <div class="left">
-      <ons-back-button></ons-back-button>
+      <ons-back-button ng-click="BackButton()"></ons-back-button>
     </div>
+      <div class="center"><img src="img/brick.png"</div>
       <div class="right">
         <ons-toolbar-button ng-click="menu.toggle()"><ons-icon icon="ion-navicon-round" fixed-width="false"></ons-icon></ons-toolbar-button>
       </div>
-      <img src="img/brick.png" class="center"></div>
+  </div>
     </ons-toolbar>
 
-  <div class="app-page" ng-controller="pluginsController">
-    <div class="app-page-photo">   
+  <div class="app-page">
+    <div class="app-page-photo" ng-controller="pluginsController">   
       <ons-row class="app-photo">   
         <ons-col>
           <img class="app-photo-main" src="img/gallery/printer.png">
         </ons-col>
       </ons-row>
-      <div class="app-page" ng-controller="pluginsController">
-    <div class="app-page-content">
-
-    
+    <div class="app-page-content">  
       <ons-button modifier="large--cta" ng-click="openSocialSharing()">Download Datasheet</ons-button>
       <br>
-
-
     </div>
-
   </div>
-  <div class="">
-        <img src="img/bg.png" class="bg">
+    <div class="">
+      <img src="img/bg.png" class="bg">
         </div>
 </ons-page>
 </ons-navigator>
