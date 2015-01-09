@@ -1,7 +1,7 @@
   <ons-page>
     <ons-toolbar modifier="opacity">
     <div class="left">
-      <ons-back-button ng-click="BackButton()"></ons-back-button>
+      <ons-back-button ng-click="goBack()"></ons-back-button>
     </div>
       <div class="center"><img src="img/brick.png"</div>
       <div class="right">
@@ -10,15 +10,15 @@
   </div>
     </ons-toolbar>
 
-  <div class="app-page">
-    <div class="app-page-photo" ng-controller="pluginsController">   
+    <div class="app-page" ng-controller="pluginsController">
+    <div class="app-page-content">
+    <div class="app-page-photo">   
       <ons-row class="app-photo">   
         <ons-col>
           <img class="app-photo-main" src="img/gallery/printer.png">
         </ons-col>
-      </ons-row>
-    <div class="app-page-content">  
-      <ons-button modifier="large--cta" ng-click="openSocialSharing()">Download Datasheet</ons-button>
+      </ons-row> 
+      <ons-button modifier="large--cta" ng-click="openEmailClient()">Download Datasheet</ons-button>
       <br>
     </div>
   </div>

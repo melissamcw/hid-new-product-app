@@ -147,6 +147,7 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/profiles/profile-image-09.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js/app.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js/core.js \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js/email_composer.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js/index.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js/jquery.min.js \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/js/plugins.js \
