@@ -16,6 +16,14 @@
     <feature name="SplashScreen">
         <param name="android-package" value="org.apache.cordova.splashscreen.SplashScreen" />
     </feature>
+    <splash density="land-hdpi" src="www/res/screen/android/splash-land-hdpi.png" />
+    <splash density="land-ldpi" src="www/res/screen/android/splash-land-ldpi.png" />
+    <splash density="land-mdpi" src="www/res/screen/android/splash-land-mdpi.png" />
+    <splash density="land-xhdpi" src="www/res/screen/android/splash-land-xhdpi.png" />
+    <splash density="port-hdpi" src="www/res/screen/android/splash-port-hdpi.png" />
+    <splash density="port-ldpi" src="www/res/screen/android/splash-port-ldpi.png" />
+    <splash density="port-mdpi" src="www/res/screen/android/splash-port-mdpi.png" />
+    <splash density="port-xhdpi" src="www/res/screen/android/splash-port-xhdpi.png" />
     <name>HID Product Solutions</name>
     <description>
         A product solutions application for HID Global an ASSA ABLOY company.
@@ -25,9 +33,10 @@
     </author>
     <content src="index.html" />
     <access origin="*" />
-    <icon src="res/icon.png" />
+    <icon src="www/res/icon.png" />
     <preference name="SplashScreen" value="Default-568h@2x~iphone.png" />
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="webviewbounce" value="false" />
+    <preference name="SplashScreenDelay" value="10000" />
 </widget>
