@@ -4909,3 +4909,941 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
     }
   ]
 ]
+2015-01-12 10:41:44.987 HID Product Solutions[5447:49129] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/D8F57B8C-804F-4BCC-88AD-AFAE47E8D902/Library/Cookies/Cookies.binarycookies
+2015-01-12 10:41:45.227 HID Product Solutions[5447:49129] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 10:41:45.228 HID Product Solutions[5447:49129] Multi-tasking -> Device: YES, App: YES
+2015-01-12 10:41:45.246 HID Product Solutions[5447:49129] Unlimited access to network resources
+2015-01-12 10:41:45.257 HID Product Solutions[5447:49129] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 10:41:45.615 HID Product Solutions[5447:49129] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 10:41:45.615 HID Product Solutions[5447:49129] [CDVTimer][socialsharing] 0.154972ms
+2015-01-12 10:41:45.777 HID Product Solutions[5447:49129] [CDVTimer][splashscreen] 161.550999ms
+2015-01-12 10:41:45.777 HID Product Solutions[5447:49129] [CDVTimer][TotalPluginStartup] 162.009001ms
+2015-01-12 10:41:45.843 HID Product Solutions[5447:49129] Resetting plugins due to page load.
+2015-01-12 10:41:46.173 HID Product Solutions[5447:49129] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/D1B9B24D-1B6F-4638-9F9E-E707996B4584/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 10:43:12.309 HID Product Solutions[5447:49129] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:43:12.310 HID Product Solutions[5447:49129] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:43:12.310 HID Product Solutions[5447:49129] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:43:13.171 HID Product Solutions[5447:49129] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:43:13.171 HID Product Solutions[5447:49129] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:43:13.171 HID Product Solutions[5447:49129] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:43:13.313 HID Product Solutions[5447:49129] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:43:13.314 HID Product Solutions[5447:49129] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:43:13.314 HID Product Solutions[5447:49129] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:44:09.117 HID Product Solutions[5733:50633] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/75BCBA34-C22F-4765-9C0B-45B3A6DAA65A/Library/Cookies/Cookies.binarycookies
+2015-01-12 10:44:09.201 HID Product Solutions[5733:50633] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 10:44:09.201 HID Product Solutions[5733:50633] Multi-tasking -> Device: YES, App: YES
+2015-01-12 10:44:09.203 HID Product Solutions[5733:50633] Unlimited access to network resources
+2015-01-12 10:44:09.205 HID Product Solutions[5733:50633] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 10:44:09.376 HID Product Solutions[5733:50633] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 10:44:09.376 HID Product Solutions[5733:50633] [CDVTimer][socialsharing] 0.162005ms
+2015-01-12 10:44:09.405 HID Product Solutions[5733:50633] [CDVTimer][splashscreen] 28.504968ms
+2015-01-12 10:44:09.405 HID Product Solutions[5733:50633] [CDVTimer][TotalPluginStartup] 28.962970ms
+2015-01-12 10:44:09.438 HID Product Solutions[5733:50633] Resetting plugins due to page load.
+2015-01-12 10:44:09.604 HID Product Solutions[5733:50633] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/5BEE120B-18E2-4C88-AA65-F82958339E70/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 10:44:18.187 HID Product Solutions[5733:50633] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:44:18.187 HID Product Solutions[5733:50633] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:44:18.187 HID Product Solutions[5733:50633] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:45:12.809 HID Product Solutions[5990:51636] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/C8613FB5-D012-484A-ADD6-6E3C916CF822/Library/Cookies/Cookies.binarycookies
+2015-01-12 10:45:12.894 HID Product Solutions[5990:51636] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 10:45:12.894 HID Product Solutions[5990:51636] Multi-tasking -> Device: YES, App: YES
+2015-01-12 10:45:12.895 HID Product Solutions[5990:51636] Unlimited access to network resources
+2015-01-12 10:45:12.897 HID Product Solutions[5990:51636] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 10:45:13.072 HID Product Solutions[5990:51636] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 10:45:13.073 HID Product Solutions[5990:51636] [CDVTimer][socialsharing] 0.149012ms
+2015-01-12 10:45:13.087 HID Product Solutions[5990:51636] [CDVTimer][splashscreen] 14.701009ms
+2015-01-12 10:45:13.088 HID Product Solutions[5990:51636] [CDVTimer][TotalPluginStartup] 15.106976ms
+2015-01-12 10:45:13.127 HID Product Solutions[5990:51636] Resetting plugins due to page load.
+2015-01-12 10:45:13.275 HID Product Solutions[5990:51636] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/2CB80CF5-5584-4153-8AE3-AD3DA66C9273/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 10:45:17.644 HID Product Solutions[5990:51636] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:45:17.644 HID Product Solutions[5990:51636] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:45:17.644 HID Product Solutions[5990:51636] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:48:35.262 HID Product Solutions[6300:53644] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/B2378502-5206-4E56-BD15-E0A57FFC624A/Library/Cookies/Cookies.binarycookies
+2015-01-12 10:48:35.338 HID Product Solutions[6300:53644] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 10:48:35.339 HID Product Solutions[6300:53644] Multi-tasking -> Device: YES, App: YES
+2015-01-12 10:48:35.340 HID Product Solutions[6300:53644] Unlimited access to network resources
+2015-01-12 10:48:35.342 HID Product Solutions[6300:53644] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 10:48:35.505 HID Product Solutions[6300:53644] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 10:48:35.505 HID Product Solutions[6300:53644] [CDVTimer][socialsharing] 0.149012ms
+2015-01-12 10:48:35.533 HID Product Solutions[6300:53644] [CDVTimer][splashscreen] 27.677953ms
+2015-01-12 10:48:35.533 HID Product Solutions[6300:53644] [CDVTimer][TotalPluginStartup] 28.148949ms
+2015-01-12 10:48:35.566 HID Product Solutions[6300:53644] Resetting plugins due to page load.
+2015-01-12 10:48:35.726 HID Product Solutions[6300:53644] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/46572F71-3F0A-4958-8902-B819BC8C091A/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 10:49:25.960 HID Product Solutions[6555:54532] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/072DB7F4-110A-4B58-8EBC-D64300DD9503/Library/Cookies/Cookies.binarycookies
+2015-01-12 10:49:26.046 HID Product Solutions[6555:54532] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 10:49:26.046 HID Product Solutions[6555:54532] Multi-tasking -> Device: YES, App: YES
+2015-01-12 10:49:26.047 HID Product Solutions[6555:54532] Unlimited access to network resources
+2015-01-12 10:49:26.049 HID Product Solutions[6555:54532] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 10:49:26.217 HID Product Solutions[6555:54532] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 10:49:26.218 HID Product Solutions[6555:54532] [CDVTimer][socialsharing] 0.142992ms
+2015-01-12 10:49:26.246 HID Product Solutions[6555:54532] [CDVTimer][splashscreen] 28.764963ms
+2015-01-12 10:49:26.247 HID Product Solutions[6555:54532] [CDVTimer][TotalPluginStartup] 29.188991ms
+2015-01-12 10:49:26.279 HID Product Solutions[6555:54532] Resetting plugins due to page load.
+2015-01-12 10:49:26.438 HID Product Solutions[6555:54532] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/65C76656-6496-41F6-A36C-89B7F83339B7/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 10:49:31.600 HID Product Solutions[6555:54532] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:49:31.601 HID Product Solutions[6555:54532] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:49:31.602 HID Product Solutions[6555:54532] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:49:32.250 HID Product Solutions[6555:54532] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:49:32.251 HID Product Solutions[6555:54532] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:49:32.251 HID Product Solutions[6555:54532] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:49:32.393 HID Product Solutions[6555:54532] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:49:32.393 HID Product Solutions[6555:54532] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:49:32.394 HID Product Solutions[6555:54532] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:51:20.830 HID Product Solutions[6833:55869] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/57A76CE8-87F3-49E2-869F-903647FA9555/Library/Cookies/Cookies.binarycookies
+2015-01-12 10:51:20.916 HID Product Solutions[6833:55869] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 10:51:20.916 HID Product Solutions[6833:55869] Multi-tasking -> Device: YES, App: YES
+2015-01-12 10:51:20.918 HID Product Solutions[6833:55869] Unlimited access to network resources
+2015-01-12 10:51:20.920 HID Product Solutions[6833:55869] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 10:51:21.087 HID Product Solutions[6833:55869] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 10:51:21.087 HID Product Solutions[6833:55869] [CDVTimer][socialsharing] 0.162005ms
+2015-01-12 10:51:21.115 HID Product Solutions[6833:55869] [CDVTimer][splashscreen] 27.989984ms
+2015-01-12 10:51:21.115 HID Product Solutions[6833:55869] [CDVTimer][TotalPluginStartup] 28.416038ms
+2015-01-12 10:51:21.149 HID Product Solutions[6833:55869] Resetting plugins due to page load.
+2015-01-12 10:51:21.313 HID Product Solutions[6833:55869] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/30566751-E1BC-43CB-AA19-BC0926841395/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 10:51:35.064 HID Product Solutions[6833:55869] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:51:35.064 HID Product Solutions[6833:55869] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:51:35.064 HID Product Solutions[6833:55869] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:51:35.490 HID Product Solutions[6833:55869] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:51:35.490 HID Product Solutions[6833:55869] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:51:35.490 HID Product Solutions[6833:55869] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:51:35.724 HID Product Solutions[6833:55869] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:51:35.724 HID Product Solutions[6833:55869] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:51:35.724 HID Product Solutions[6833:55869] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:51:44.766 HID Product Solutions[6833:55869] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:51:44.766 HID Product Solutions[6833:55869] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:51:44.766 HID Product Solutions[6833:55869] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:52:39.421 HID Product Solutions[7094:57037] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/F4175CB3-37DF-40BC-AF5B-8A55A7764425/Library/Cookies/Cookies.binarycookies
+2015-01-12 10:52:39.511 HID Product Solutions[7094:57037] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 10:52:39.511 HID Product Solutions[7094:57037] Multi-tasking -> Device: YES, App: YES
+2015-01-12 10:52:39.512 HID Product Solutions[7094:57037] Unlimited access to network resources
+2015-01-12 10:52:39.515 HID Product Solutions[7094:57037] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 10:52:39.690 HID Product Solutions[7094:57037] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 10:52:39.690 HID Product Solutions[7094:57037] [CDVTimer][socialsharing] 0.146031ms
+2015-01-12 10:52:39.716 HID Product Solutions[7094:57037] [CDVTimer][splashscreen] 26.037037ms
+2015-01-12 10:52:39.717 HID Product Solutions[7094:57037] [CDVTimer][TotalPluginStartup] 26.444018ms
+2015-01-12 10:52:39.749 HID Product Solutions[7094:57037] Resetting plugins due to page load.
+2015-01-12 10:52:39.918 HID Product Solutions[7094:57037] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/34B28E12-185F-4E26-899C-F759A6938ECD/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 10:52:44.430 HID Product Solutions[7094:57037] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:52:44.431 HID Product Solutions[7094:57037] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:52:44.431 HID Product Solutions[7094:57037] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 10:53:36.176 HID Product Solutions[7356:58035] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/BBB3597C-784A-488C-80C4-05B1EF3403AB/Library/Cookies/Cookies.binarycookies
+2015-01-12 10:53:36.251 HID Product Solutions[7356:58035] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 10:53:36.251 HID Product Solutions[7356:58035] Multi-tasking -> Device: YES, App: YES
+2015-01-12 10:53:36.252 HID Product Solutions[7356:58035] Unlimited access to network resources
+2015-01-12 10:53:36.255 HID Product Solutions[7356:58035] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 10:53:36.417 HID Product Solutions[7356:58035] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 10:53:36.417 HID Product Solutions[7356:58035] [CDVTimer][socialsharing] 0.151992ms
+2015-01-12 10:53:36.443 HID Product Solutions[7356:58035] [CDVTimer][splashscreen] 26.211023ms
+2015-01-12 10:53:36.443 HID Product Solutions[7356:58035] [CDVTimer][TotalPluginStartup] 26.683033ms
+2015-01-12 10:53:36.477 HID Product Solutions[7356:58035] Resetting plugins due to page load.
+2015-01-12 10:53:36.675 HID Product Solutions[7356:58035] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/61E4848E-08C2-4DE3-9E5A-26D9FDB58CE9/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 10:53:42.710 HID Product Solutions[7356:58035] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 10:53:42.710 HID Product Solutions[7356:58035] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 10:53:42.710 HID Product Solutions[7356:58035] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:01:12.135 HID Product Solutions[7764:62832] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/4D43C4FF-7951-4B51-847A-E4E365C4450C/Library/Cookies/Cookies.binarycookies
+2015-01-12 11:01:12.216 HID Product Solutions[7764:62832] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 11:01:12.217 HID Product Solutions[7764:62832] Multi-tasking -> Device: YES, App: YES
+2015-01-12 11:01:12.218 HID Product Solutions[7764:62832] Unlimited access to network resources
+2015-01-12 11:01:12.220 HID Product Solutions[7764:62832] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 11:01:12.390 HID Product Solutions[7764:62832] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 11:01:12.390 HID Product Solutions[7764:62832] [CDVTimer][socialsharing] 0.147998ms
+2015-01-12 11:01:12.420 HID Product Solutions[7764:62832] [CDVTimer][splashscreen] 30.134022ms
+2015-01-12 11:01:12.420 HID Product Solutions[7764:62832] [CDVTimer][TotalPluginStartup] 30.598998ms
+2015-01-12 11:01:12.453 HID Product Solutions[7764:62832] Resetting plugins due to page load.
+2015-01-12 11:01:12.616 HID Product Solutions[7764:62832] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/D456D26A-50ED-493D-8BA7-5D62E548B4C2/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 11:01:17.894 HID Product Solutions[7764:62832] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:01:17.894 HID Product Solutions[7764:62832] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:01:17.894 HID Product Solutions[7764:62832] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:01:42.905 HID Product Solutions[8010:63640] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/948499C0-3A16-4F1F-85EA-4B5CE14A7DE3/Library/Cookies/Cookies.binarycookies
+2015-01-12 11:01:42.981 HID Product Solutions[8010:63640] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 11:01:42.981 HID Product Solutions[8010:63640] Multi-tasking -> Device: YES, App: YES
+2015-01-12 11:01:42.983 HID Product Solutions[8010:63640] Unlimited access to network resources
+2015-01-12 11:01:42.985 HID Product Solutions[8010:63640] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 11:01:43.148 HID Product Solutions[8010:63640] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 11:01:43.148 HID Product Solutions[8010:63640] [CDVTimer][socialsharing] 0.149965ms
+2015-01-12 11:01:43.171 HID Product Solutions[8010:63640] [CDVTimer][splashscreen] 22.063017ms
+2015-01-12 11:01:43.171 HID Product Solutions[8010:63640] [CDVTimer][TotalPluginStartup] 22.494018ms
+2015-01-12 11:01:43.204 HID Product Solutions[8010:63640] Resetting plugins due to page load.
+2015-01-12 11:01:43.360 HID Product Solutions[8010:63640] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/C9454984-F9FB-4F44-ABB7-709AE0C362C0/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 11:03:49.558 HID Product Solutions[8284:65232] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/4800FFF5-25C6-4ABB-BB61-E33553A08791/Library/Cookies/Cookies.binarycookies
+2015-01-12 11:03:49.634 HID Product Solutions[8284:65232] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 11:03:49.634 HID Product Solutions[8284:65232] Multi-tasking -> Device: YES, App: YES
+2015-01-12 11:03:49.635 HID Product Solutions[8284:65232] Unlimited access to network resources
+2015-01-12 11:03:49.637 HID Product Solutions[8284:65232] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 11:03:49.811 HID Product Solutions[8284:65232] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 11:03:49.811 HID Product Solutions[8284:65232] [CDVTimer][socialsharing] 0.158966ms
+2015-01-12 11:03:49.836 HID Product Solutions[8284:65232] [CDVTimer][splashscreen] 24.509966ms
+2015-01-12 11:03:49.836 HID Product Solutions[8284:65232] [CDVTimer][TotalPluginStartup] 24.960041ms
+2015-01-12 11:03:49.869 HID Product Solutions[8284:65232] Resetting plugins due to page load.
+2015-01-12 11:03:50.036 HID Product Solutions[8284:65232] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/13D5C4AB-3FD7-47C4-A154-7C61A20850B1/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 11:03:55.890 HID Product Solutions[8284:65232] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:03:55.890 HID Product Solutions[8284:65232] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:03:55.890 HID Product Solutions[8284:65232] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:04:25.693 HID Product Solutions[8530:66126] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/FAB26783-EF84-4546-B646-12CE8E1674DC/Library/Cookies/Cookies.binarycookies
+2015-01-12 11:04:25.780 HID Product Solutions[8530:66126] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 11:04:25.780 HID Product Solutions[8530:66126] Multi-tasking -> Device: YES, App: YES
+2015-01-12 11:04:25.782 HID Product Solutions[8530:66126] Unlimited access to network resources
+2015-01-12 11:04:25.784 HID Product Solutions[8530:66126] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 11:04:25.966 HID Product Solutions[8530:66126] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 11:04:25.966 HID Product Solutions[8530:66126] [CDVTimer][socialsharing] 0.191033ms
+2015-01-12 11:04:25.994 HID Product Solutions[8530:66126] [CDVTimer][splashscreen] 27.761996ms
+2015-01-12 11:04:25.994 HID Product Solutions[8530:66126] [CDVTimer][TotalPluginStartup] 28.239012ms
+2015-01-12 11:04:26.028 HID Product Solutions[8530:66126] Resetting plugins due to page load.
+2015-01-12 11:04:26.197 HID Product Solutions[8530:66126] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/C3A085E4-9435-4064-8F64-4043B8087D13/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 11:06:02.264 HID Product Solutions[8839:67654] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/6906FB17-9EC9-4DE2-A28B-84BE394481B4/Library/Cookies/Cookies.binarycookies
+2015-01-12 11:06:02.329 HID Product Solutions[8839:67654] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 11:06:02.330 HID Product Solutions[8839:67654] Multi-tasking -> Device: YES, App: YES
+2015-01-12 11:06:02.331 HID Product Solutions[8839:67654] Unlimited access to network resources
+2015-01-12 11:06:02.333 HID Product Solutions[8839:67654] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 11:06:02.494 HID Product Solutions[8839:67654] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 11:06:02.494 HID Product Solutions[8839:67654] [CDVTimer][socialsharing] 0.145018ms
+2015-01-12 11:06:02.511 HID Product Solutions[8839:67654] [CDVTimer][splashscreen] 16.663015ms
+2015-01-12 11:06:02.511 HID Product Solutions[8839:67654] [CDVTimer][TotalPluginStartup] 17.077029ms
+2015-01-12 11:06:02.544 HID Product Solutions[8839:67654] Resetting plugins due to page load.
+2015-01-12 11:06:02.717 HID Product Solutions[8839:67654] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/3A9C0EF4-03D7-45DD-80F6-5A51D3B233C5/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 11:06:09.319 HID Product Solutions[8839:67654] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:06:09.320 HID Product Solutions[8839:67654] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:06:09.320 HID Product Solutions[8839:67654] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:06:09.577 HID Product Solutions[8839:67654] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:06:09.577 HID Product Solutions[8839:67654] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:06:09.577 HID Product Solutions[8839:67654] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:06:10.505 HID Product Solutions[8839:67654] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:06:10.505 HID Product Solutions[8839:67654] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:06:10.505 HID Product Solutions[8839:67654] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:06:44.131 HID Product Solutions[9088:68540] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/33F00743-8658-490B-BE09-4FEEA61A8B23/Library/Cookies/Cookies.binarycookies
+2015-01-12 11:06:44.215 HID Product Solutions[9088:68540] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 11:06:44.216 HID Product Solutions[9088:68540] Multi-tasking -> Device: YES, App: YES
+2015-01-12 11:06:44.217 HID Product Solutions[9088:68540] Unlimited access to network resources
+2015-01-12 11:06:44.219 HID Product Solutions[9088:68540] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 11:06:44.382 HID Product Solutions[9088:68540] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 11:06:44.382 HID Product Solutions[9088:68540] [CDVTimer][socialsharing] 0.140965ms
+2015-01-12 11:06:44.407 HID Product Solutions[9088:68540] [CDVTimer][splashscreen] 25.129974ms
+2015-01-12 11:06:44.408 HID Product Solutions[9088:68540] [CDVTimer][TotalPluginStartup] 25.581002ms
+2015-01-12 11:06:44.441 HID Product Solutions[9088:68540] Resetting plugins due to page load.
+2015-01-12 11:06:44.597 HID Product Solutions[9088:68540] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/0E1AC895-C5A0-45C1-BAE2-04CFA8A2F4A4/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 11:06:50.023 HID Product Solutions[9088:68540] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:06:50.024 HID Product Solutions[9088:68540] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:06:50.024 HID Product Solutions[9088:68540] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:06:50.529 HID Product Solutions[9088:68540] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:06:50.529 HID Product Solutions[9088:68540] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:06:50.529 HID Product Solutions[9088:68540] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:06:50.696 HID Product Solutions[9088:68540] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:06:50.696 HID Product Solutions[9088:68540] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:06:50.696 HID Product Solutions[9088:68540] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:07:15.053 HID Product Solutions[9336:69316] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/F735E996-5B98-4B2C-9EF7-356F46B59163/Library/Cookies/Cookies.binarycookies
+2015-01-12 11:07:15.130 HID Product Solutions[9336:69316] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 11:07:15.131 HID Product Solutions[9336:69316] Multi-tasking -> Device: YES, App: YES
+2015-01-12 11:07:15.132 HID Product Solutions[9336:69316] Unlimited access to network resources
+2015-01-12 11:07:15.134 HID Product Solutions[9336:69316] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 11:07:15.299 HID Product Solutions[9336:69316] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 11:07:15.299 HID Product Solutions[9336:69316] [CDVTimer][socialsharing] 0.146031ms
+2015-01-12 11:07:15.315 HID Product Solutions[9336:69316] [CDVTimer][splashscreen] 15.314996ms
+2015-01-12 11:07:15.315 HID Product Solutions[9336:69316] [CDVTimer][TotalPluginStartup] 15.753984ms
+2015-01-12 11:07:15.356 HID Product Solutions[9336:69316] Resetting plugins due to page load.
+2015-01-12 11:07:15.529 HID Product Solutions[9336:69316] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/F683F235-8D8E-441E-AD7C-79405BE32F4B/HID%20Product%20Solutions.app/www/index.html
+2015-01-12 11:08:25.714 HID Product Solutions[9336:69316] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:08:25.714 HID Product Solutions[9336:69316] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:08:25.714 HID Product Solutions[9336:69316] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:08:26.254 HID Product Solutions[9336:69316] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:08:26.254 HID Product Solutions[9336:69316] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:08:26.254 HID Product Solutions[9336:69316] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:08:26.827 HID Product Solutions[9336:69316] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-12 11:08:26.827 HID Product Solutions[9336:69316] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-12 11:08:26.828 HID Product Solutions[9336:69316] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-12 11:08:45.313 HID Product Solutions[9597:70760] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/204549D2-A786-4146-A200-979CCF92C993/Library/Cookies/Cookies.binarycookies
+2015-01-12 11:08:45.385 HID Product Solutions[9597:70760] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-12 11:08:45.385 HID Product Solutions[9597:70760] Multi-tasking -> Device: YES, App: YES
+2015-01-12 11:08:45.386 HID Product Solutions[9597:70760] Unlimited access to network resources
+2015-01-12 11:08:45.388 HID Product Solutions[9597:70760] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-12 11:08:45.554 HID Product Solutions[9597:70760] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-12 11:08:45.554 HID Product Solutions[9597:70760] [CDVTimer][socialsharing] 0.150979ms
+2015-01-12 11:08:45.568 HID Product Solutions[9597:70760] [CDVTimer][splashscreen] 13.987005ms
+2015-01-12 11:08:45.568 HID Product Solutions[9597:70760] [CDVTimer][TotalPluginStartup] 14.410019ms
+2015-01-12 11:08:45.602 HID Product Solutions[9597:70760] Resetting plugins due to page load.
+2015-01-12 11:08:45.752 HID Product Solutions[9597:70760] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/96253D53-2ABF-4464-AA4F-C98D6478DF57/HID%20Product%20Solutions.app/www/index.html

@@ -92,13 +92,9 @@
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/css/app.less \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/css/plugins.css \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/css/plugins.less \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts/Gotham-Bold.otf \
+/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts/Gotham-Medium.otf \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts/Gotham-Thin.otf \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts/lobster.ttf \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts/lobster.woff \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts/lobster.woff2 \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts/playfair.ttf \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts/playfair.woff \
-/Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/fonts/playfair.woff2 \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/bg.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/bg1.png \
 /Users/MMcWilliams/Desktop/hid-product-app/platforms/android/assets/www/img/book.png \
