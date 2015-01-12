@@ -10,15 +10,14 @@
   font-family: "Gotham-Medium";
   src: url('../fonts/Gotham-Medium.otf') format('otf'), url('../fonts/Gothan-Medium.otf') format('opentype'), url('../fonts/Gotham-Medium.otf') format('OpenType');
   font-style: normal;
-  font-weight: 400;
 }
 
 @font-face {
-  font-family: "Lobster";
-  src: url('../fonts/lobster.woff2') format('woff2'), url('../fonts/lobster.woff') format('woff'), url('../fonts/lobster.ttf') format('truetype');
+  font-family: "Gotham-Bold";
+  src: url('../fonts/Gotham-Bold.otf') format('otf'), url('../fonts/Gothan-Bold.otf') format('opentype'), url('../fonts/Gotham-Bold.otf') format('OpenType');
   font-style: normal;
-  font-weight: 400;
 }
+
 /* Global & Helpers */
 h1,
 h2,
@@ -642,6 +641,7 @@ img.bg {
 .app-page .list--categories .list-item-container {
   line-height: 1;
   padding: 0 20px 0 0;
+  border-radius: 3px;
 }
 .app-page .list--categories .thumbnail {
   width: 125px;

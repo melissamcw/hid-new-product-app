@@ -20,15 +20,17 @@
   <script src="cordova.js"></script>  
   <script src="js/app.js"></script>    
   <script src="js/core.js"></script>
-  <script type="text/javascript" src="js/SocialSharing.js"></script>
+  <script src="js/SocialSharing.js"></script>
 </head>
 
 <body class="platform-ios platform-cordova platform-webview">    
   
-  <ons-sliding-menu
-    menu-page="menu.html" main-page="home.html" side="left"
-    var="menu" type="reveal" max-slide-distance="260px" swipable="true" swipe-target-width="50">
-  </ons-sliding-menu>
+  <ons-tabbar>
+    <ons-tab page="product-lines.html" active="true">
+      <ons-icon icon="ion-home"></ons-icon>
+      <span class="tab-label">Product Lines</span>
+    </ons-tab>
+  </ons-tabbar>
 
 </body>
 </html>
