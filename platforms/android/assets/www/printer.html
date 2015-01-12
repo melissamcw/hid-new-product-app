@@ -4,9 +4,6 @@
       <ons-back-button ng-click="goBack()"></ons-back-button>
     </div>
       <div class="center"><img src="img/brick.png"</div>
-      <div class="right">
-        <ons-toolbar-button ng-click="menu.toggle()"><ons-icon icon="ion-navicon-round" fixed-width="false"></ons-icon></ons-toolbar-button>
-      </div>
   </div>
     </ons-toolbar>
 
@@ -18,7 +15,7 @@
           <img class="app-photo-main" src="img/gallery/printer.png">
         </ons-col>
       </ons-row> 
-      <ons-button modifier="large--cta" ng-click="openEmailClient()">Download Datasheet</ons-button>
+      <ons-button modifier="large--cta" ng-click="window.plugins.socialsharing.share('Message, subject, image and link', 'The subject', 'https://www.google.com/images/srpr/logo4w.png', 'http://www.google.com');">Download Datasheet</ons-button>
       <br>
     </div>
   </div>
