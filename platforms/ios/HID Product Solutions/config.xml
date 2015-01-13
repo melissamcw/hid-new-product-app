@@ -50,4 +50,5 @@
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="webviewbounce" value="false" />
+    <gap:plugin name="de.appplant.cordova.plugin.email-composer" />
 </widget>

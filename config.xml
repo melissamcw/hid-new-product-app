@@ -16,7 +16,7 @@
     <preference name="webviewbounce" value="false" />
     <feature name="EmailComposer">
         <param name="ios-package" value="de.applant.cordova.plugin.email-composer" />
-        <feature name="EmailComposer">
+    <feature name="EmailComposer">
             <param name="android-package" value="de.applant.cordova.plugin.email-composer" />
         </feature>
     </feature>

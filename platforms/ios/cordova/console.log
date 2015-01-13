@@ -9709,3 +9709,99 @@ To disable web storage backup to iCloud, set the BackupWebStorage preference to 
     }
   ]
 ]
+2015-01-13 12:45:54.090 HID Product Solutions[75014:571723] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Data/Application/A6FC5E77-A1D3-46E3-949A-DAF8514C3A74/Library/Cookies/Cookies.binarycookies
+2015-01-13 12:45:54.183 HID Product Solutions[75014:571723] Apache Cordova native platform version 3.7.0 is starting.
+2015-01-13 12:45:54.184 HID Product Solutions[75014:571723] Multi-tasking -> Device: YES, App: YES
+2015-01-13 12:45:54.187 HID Product Solutions[75014:571723] Unlimited access to network resources
+2015-01-13 12:45:54.189 HID Product Solutions[75014:571723] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-01-13 12:45:54.389 HID Product Solutions[75014:571723] CDVPlugin class SocialSharing (pluginName: socialsharing) does not exist.
+2015-01-13 12:45:54.389 HID Product Solutions[75014:571723] [CDVTimer][socialsharing] 0.145018ms
+2015-01-13 12:45:54.438 HID Product Solutions[75014:571723] [CDVTimer][splashscreen] 48.250020ms
+2015-01-13 12:45:54.438 HID Product Solutions[75014:571723] [CDVTimer][TotalPluginStartup] 48.684001ms
+2015-01-13 12:45:54.473 HID Product Solutions[75014:571723] Resetting plugins due to page load.
+2015-01-13 12:45:55.036 HID Product Solutions[75014:571723] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/9002621D-9032-42D1-8DF8-4C99EE568D70/data/Containers/Bundle/Application/B155022E-325C-46D8-86D6-005A5F7D995E/HID%20Product%20Solutions.app/www/index.html
+2015-01-13 12:45:59.395 HID Product Solutions[75014:571723] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-13 12:45:59.395 HID Product Solutions[75014:571723] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-13 12:45:59.395 HID Product Solutions[75014:571723] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-13 12:45:59.824 HID Product Solutions[75014:571723] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-13 12:45:59.825 HID Product Solutions[75014:571723] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-13 12:45:59.825 HID Product Solutions[75014:571723] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
+2015-01-13 12:45:59.986 HID Product Solutions[75014:571723] CDVPlugin class APPEmailComposer (pluginName: EmailComposer) does not exist.
+2015-01-13 12:45:59.986 HID Product Solutions[75014:571723] ERROR: Plugin 'EmailComposer' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-01-13 12:45:59.986 HID Product Solutions[75014:571723] -[CDVCommandQueue executePending] [Line 158] FAILED pluginJSON = [
+  "INVALID",
+  "EmailComposer",
+  "open",
+  [
+    {
+      "subject" : "Hey!",
+      "attachments" : [
+
+      ],
+      "bcc" : [
+
+      ],
+      "isHtml" : true,
+      "to" : [
+        "han@solo.com"
+      ],
+      "cc" : [
+
+      ],
+      "body" : "May the <strong>force<\/strong> be with you"
+    }
+  ]
+]
