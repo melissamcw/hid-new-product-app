@@ -226,7 +226,6 @@
     CGRect imgBounds = (img) ? CGRectMake(0, 0, img.size.width, img.size.height) : CGRectZero;
 
     CGSize screenSize = [self.viewController.view convertRect:[UIScreen mainScreen].bounds fromView:nil].size;
-    UIInterfaceOrientation orientation = self.viewController.interfaceOrientation;
     CGAffineTransform imgTransform = CGAffineTransformIdentity;
 
     /* If and only if an iPhone application is landscape-only as per
@@ -234,11 +233,7 @@
      * landscape. In this case the image must be rotated in order to appear
      * correctly.
      */
-    if (UIInterfaceOrientationIsLandscape(orientation) && !CDV_IsIPad()) {
-        imgTransform = CGAffineTransformMakeRotation(M_PI / 2);
-        imgBounds.size = CGSizeMake(imgBounds.size.height, imgBounds.size.width);
-    }
-
+    
     // There's a special case when the image is the size of the screen.
     if (CGSizeEqualToSize(screenSize, imgBounds.size)) {
         CGRect statusFrame = [self.viewController.view convertRect:[UIApplication sharedApplication].statusBarFrame fromView:nil];
