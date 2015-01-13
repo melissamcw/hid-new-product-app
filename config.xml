@@ -15,7 +15,10 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="webviewbounce" value="false" />
     <feature name="EmailComposer">
-        <param name="ios-package" value="APPEmailComposer" />
+        <param name="ios-package" value="de.applant.cordova.plugin.email-composer" />
+        <feature name="EmailComposer">
+            <param name="android-package" value="de.applant.cordova.plugin.email-composer" />
+        </feature>
     </feature>
     <feature name="SocialSharing">
         <param name="ios-package" value="SocialSharing" />
