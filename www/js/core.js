@@ -167,3 +167,34 @@ app.controller('bookingController', function($scope, $compile, $filter){
 	}
 
 });
+
+app.factory('itemsFactory', ['$http', function($http){
+  var itemsFactory ={
+    itemDetails: function() {
+      return $http(
+      {
+        url: "app.json",
+        method: "GET",
+      })
+      .then(function (response) {
+        return response.data;
+        });
+      }
+    };
+    return itemsFactory;
+  
+}]);
+
+
+app.controller('ItemsController', ['$scope', 'itemsFactory', function($scope, itemsFactory){
+  var promise = itemsFactory.itemDetails();
+
+    promise.then(function (data) {
+        $scope.itemDetails = data;
+        console.log(data);
+    });
+    $scope.select = function(item) {
+      $scope.selected = item;
+    }
+    $scope.selected = {};
+}]);

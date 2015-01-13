@@ -1,0 +1,38 @@
+ <ons-navigator animation="slide" var="gallery">  
+  <ons-page>
+    <ons-toolbar modifier="opacity">
+      <div class="center"><img src="img/brick.png"</div>
+    </div>
+  </div>
+    </ons-toolbar>
+
+    <div class="app-page">
+      <div class="products-content">
+  <div ng-controller="ItemsController">
+     <h2 class="product-lines"><center>Physical Access</center></h2>
+    <div class="row">
+      <div class="col-md-4">
+        <div class="panel panel-default">
+          <ul class="list-group">
+            <a class="list-group-item" ng-click="select(item)" ng-repeat="item in itemDetails">{{item.name}}</a>
+          </ul>
+        </div>
+      </div>
+
+      <div class="col-md-8">
+        <div class="panel panel-default">
+          <h2>Name: {{selected.name}}</h2>
+          <br />Address Line 1: {{selected.addressLine1}}
+          <br />Address Line 2: {{selected.addressLine2}}
+          <br />Suburb: {{selected.suburb}}
+          <br />Phone: {{selected.contactPhone}}
+          <br />Email: {{selected.emailAddress}}
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="">
+       <img src="img/bg.png" class="bg">
+      </div>
+</body>
+</ons-page>
