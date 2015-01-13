@@ -15,14 +15,16 @@
     <preference name="DisallowOverscroll" value="true" />
     <preference name="webviewbounce" value="false" />
     <feature name="EmailComposer">
-        <param name="ios-package" value="de.applant.cordova.plugin.email-composer" />
-    <feature name="EmailComposer">
-            <param name="android-package" value="de.applant.cordova.plugin.email-composer" />
-        </feature>
+        <param name="ios-package" value="EmailComposer" />
+        <param name="android-package" value="de.applant.cordova.plugin.email-composer" />
     </feature>
     <feature name="SocialSharing">
         <param name="ios-package" value="SocialSharing" />
         <param name="onload" value="true" />
     </feature>
     <gap:plugin name="de.appplant.cordova.plugin.email-composer" />
+    <plugins>
+        <plugin name="EmailComposer" value="EmailComposer" />
+        <plugin name="SocialSharing" value="SocialSharing" />
+    </plugins>
 </widget>

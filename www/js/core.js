@@ -122,6 +122,13 @@ app.controller('pluginsController', function($scope, $compile){
 
 	}
 
+	$scope.share = function(){
+		ons.ready(function()
+		{
+			window.plugins.socialsharing.share('Here is your PDF file', 'Your PDF', 'www/files/test.pdf');
+		})
+	}
+
 });
 
 

@@ -31,14 +31,6 @@
                 "parents": {
                     "/*": [
                         {
-                            "xml": "<feature name=\"EmailComposer\"><param name=\"ios-package\" value=\"APPEmailComposer\" /></feature>",
-                            "count": 1
-                        },
-                        {
-                            "xml": "<feature name=\"SocialSharing\"><param name=\"ios-package\" value=\"SocialSharing\" /><param name=\"onload\" value=\"true\" /></feature>",
-                            "count": 1
-                        },
-                        {
                             "xml": "<feature name=\"InAppBrowser\"><param name=\"ios-package\" value=\"CDVInAppBrowser\" /></feature>",
                             "count": 1
                         },
@@ -49,6 +41,14 @@
                         {
                             "xml": "<feature name=\"SplashScreen\"><param name=\"ios-package\" value=\"CDVSplashScreen\" /><param name=\"onload\" value=\"true\" /></feature>",
                             "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"EmailComposer\"><param name=\"ios-package\" value=\"APPEmailComposer\" /></feature>",
+                            "count": 1
+                        },
+                        {
+                            "xml": "<feature name=\"SocialSharing\"><param name=\"ios-package\" value=\"SocialSharing\" /><param name=\"onload\" value=\"true\" /></feature>",
+                            "count": 1
                         }
                     ]
                 }
@@ -56,12 +56,6 @@
         }
     },
     "installed_plugins": {
-        "de.appplant.cordova.plugin.email-composer": {
-            "PACKAGE_NAME": "com.restaurant.start"
-        },
-        "nl.x-services.plugins.socialsharing": {
-            "PACKAGE_NAME": "com.restaurant.start"
-        },
         "org.apache.cordova.inappbrowser": {
             "PACKAGE_NAME": "com.restaurant.start"
         },
@@ -69,6 +63,12 @@
             "PACKAGE_NAME": "com.restaurant.start"
         },
         "org.apache.cordova.splashscreen": {
+            "PACKAGE_NAME": "com.example.HidProductAppNew"
+        },
+        "de.appplant.cordova.plugin.email-composer": {
+            "PACKAGE_NAME": "com.example.HidProductAppNew"
+        },
+        "nl.x-services.plugins.socialsharing": {
             "PACKAGE_NAME": "com.example.HidProductAppNew"
         }
     },
