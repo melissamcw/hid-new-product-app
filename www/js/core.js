@@ -62,6 +62,9 @@ app.controller('pluginsController', function($scope, $compile){
     }
 
     $scope.openSocialSharing = function(){
+    	
+    	ons.ready(function()
+		{
 		
 		window.plugins.socialsharing.share('Message, subject, image and link', 'The subject', 'https://www.google.com/images/srpr/logo4w.png', 'http://www.google.com');
 
@@ -80,7 +83,8 @@ app.controller('pluginsController', function($scope, $compile){
 		*
 		*/
 
-	}
+	})
+}
 
 
 	$scope.openEmailClient = function(){
@@ -125,7 +129,7 @@ app.controller('pluginsController', function($scope, $compile){
 	$scope.share = function(){
 		ons.ready(function()
 		{
-			window.plugins.socialsharing.share('Here is your PDF file', 'Your PDF', 'www/files/test.pdf');
+			window.plugins.socialsharing.share('Here is your PDF file', 'Your PDF', '../www/files/test.pdf');
 		})
 	}
 

@@ -17,3 +17,135 @@ https://developer.apple.com/icloud/documentation/data-storage/
 2015-01-14 11:36:35.084 HID Product Solutions[8829:73835] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/FAC9F6CE-0020-4936-AE16-B2D0061AA9A0/HID%20Product%20Solutions.app/www/index.html
 2015-01-14 11:36:40.442 HID Product Solutions[8829:73835] THREAD WARNING: ['SocialSharing'] took '105.231934' ms. Plugin should use a background thread.
 2015-01-14 11:36:43.748 HID Product Solutions[8829:73835] THREAD WARNING: ['EmailComposer'] took '12.478027' ms. Plugin should use a background thread.
+2015-01-14 11:57:55.722 HID Product Solutions[9948:85672] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Data/Application/44542778-6075-45F6-846B-EF2482786079/Library/Cookies/Cookies.binarycookies
+2015-01-14 11:57:55.784 HID Product Solutions[9948:85672] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-14 11:57:55.784 HID Product Solutions[9948:85672] Multi-tasking -> Device: YES, App: YES
+2015-01-14 11:57:55.789 HID Product Solutions[9948:85672] Unlimited access to network resources
+2015-01-14 11:57:55.792 HID Product Solutions[9948:85672] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-14 11:57:55.974 HID Product Solutions[9948:85672] CDVPlugin class CDVSplashScreen (pluginName: splashscreen) does not exist.
+2015-01-14 11:57:55.974 HID Product Solutions[9948:85672] [CDVTimer][splashscreen] 0.165999ms
+2015-01-14 11:57:56.052 HID Product Solutions[9948:85672] [CDVTimer][socialsharing] 77.923954ms
+2015-01-14 11:57:56.053 HID Product Solutions[9948:85672] [CDVTimer][TotalPluginStartup] 78.348994ms
+2015-01-14 11:57:56.077 HID Product Solutions[9948:85672] Resetting plugins due to page load.
+2015-01-14 11:57:56.307 HID Product Solutions[9948:85672] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/FCEA45C6-6D75-4CB7-AF8D-4353BC79CF85/HID%20Product%20Solutions.app/www/index.html
+2015-01-14 11:58:02.060 HID Product Solutions[9948:85672] THREAD WARNING: ['SocialSharing'] took '48.265869' ms. Plugin should use a background thread.
+2015-01-14 12:18:07.898 HID Product Solutions[921:6527] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Data/Application/2FDD1996-7D9B-4D87-AE39-EE4EE6E95C62/Library/Cookies/Cookies.binarycookies
+2015-01-14 12:18:07.999 HID Product Solutions[921:6527] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-14 12:18:07.999 HID Product Solutions[921:6527] Multi-tasking -> Device: YES, App: YES
+2015-01-14 12:18:08.018 HID Product Solutions[921:6527] Unlimited access to network resources
+2015-01-14 12:18:08.022 HID Product Solutions[921:6527] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-14 12:18:08.367 HID Product Solutions[921:6527] CDVPlugin class CDVSplashScreen (pluginName: splashscreen) does not exist.
+2015-01-14 12:18:08.367 HID Product Solutions[921:6527] [CDVTimer][splashscreen] 0.172019ms
+2015-01-14 12:18:08.455 HID Product Solutions[921:6527] [CDVTimer][socialsharing] 87.620020ms
+2015-01-14 12:18:08.455 HID Product Solutions[921:6527] [CDVTimer][TotalPluginStartup] 88.088989ms
+2015-01-14 12:18:08.580 HID Product Solutions[921:6527] Resetting plugins due to page load.
+2015-01-14 12:18:08.977 HID Product Solutions[921:6527] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/0EF4059A-1739-4C1D-8A9B-F7085C7083A5/HID%20Product%20Solutions.app/www/index.html
+2015-01-14 12:18:14.776 HID Product Solutions[921:6527] THREAD WARNING: ['SocialSharing'] took '94.674072' ms. Plugin should use a background thread.
+2015-01-14 12:18:18.412 HID Product Solutions[921:6527] THREAD WARNING: ['EmailComposer'] took '18.370850' ms. Plugin should use a background thread.
+2015-01-14 12:25:45.374 HID Product Solutions[1537:10422] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Data/Application/A891D245-B6A1-49A3-B1ED-B373610E4624/Library/Cookies/Cookies.binarycookies
+2015-01-14 12:25:45.446 HID Product Solutions[1537:10422] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-14 12:25:45.446 HID Product Solutions[1537:10422] Multi-tasking -> Device: YES, App: YES
+2015-01-14 12:25:45.451 HID Product Solutions[1537:10422] Unlimited access to network resources
+2015-01-14 12:25:45.453 HID Product Solutions[1537:10422] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-14 12:25:45.632 HID Product Solutions[1537:10422] CDVPlugin class CDVSplashScreen (pluginName: splashscreen) does not exist.
+2015-01-14 12:25:45.632 HID Product Solutions[1537:10422] [CDVTimer][splashscreen] 0.148952ms
+2015-01-14 12:25:45.711 HID Product Solutions[1537:10422] [CDVTimer][socialsharing] 79.158008ms
+2015-01-14 12:25:45.712 HID Product Solutions[1537:10422] [CDVTimer][TotalPluginStartup] 79.590023ms
+2015-01-14 12:25:45.740 HID Product Solutions[1537:10422] Resetting plugins due to page load.
+2015-01-14 12:25:45.931 HID Product Solutions[1537:10422] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/57D00295-3447-4DFA-B6D5-2416EC22FFCE/HID%20Product%20Solutions.app/www/index.html
+2015-01-14 12:25:51.423 HID Product Solutions[1537:10422] THREAD WARNING: ['SocialSharing'] took '54.674072' ms. Plugin should use a background thread.
+2015-01-14 12:25:57.261 HID Product Solutions[1537:10422] THREAD WARNING: ['SocialSharing'] took '15.137939' ms. Plugin should use a background thread.
+2015-01-14 12:26:07.688 HID Product Solutions[1537:10422] viewServiceDidTerminateWithError: Error Domain=_UIViewServiceInterfaceErrorDomain Code=3 "The operation couldn’t be completed. (_UIViewServiceInterfaceErrorDomain error 3.)" UserInfo=0x7c134700 {Message=Service Connection Interrupted}
+2015-01-14 12:26:07.688 HID Product Solutions[1537:10422] viewServiceDidTerminateWithError: Error Domain=_UIViewServiceInterfaceErrorDomain Code=3 "The operation couldn’t be completed. (_UIViewServiceInterfaceErrorDomain error 3.)" UserInfo=0x7c134670 {Message=Service Connection Interrupted}
+2015-01-14 12:26:49.968 HID Product Solutions[1537:10422] THREAD WARNING: ['SocialSharing'] took '14.690918' ms. Plugin should use a background thread.
+2015-01-14 12:26:53.287 HID Product Solutions[1537:10422] THREAD WARNING: ['SocialSharing'] took '14.143066' ms. Plugin should use a background thread.
+2015-01-14 12:26:58.985 HID Product Solutions[1537:10422] THREAD WARNING: ['SocialSharing'] took '14.927246' ms. Plugin should use a background thread.
+2015-01-14 12:27:05.011 HID Product Solutions[1537:10422] viewServiceDidTerminateWithError: Error Domain=_UIViewServiceInterfaceErrorDomain Code=3 "The operation couldn’t be completed. (_UIViewServiceInterfaceErrorDomain error 3.)" UserInfo=0x79ef8400 {Message=Service Connection Interrupted}
+2015-01-14 12:27:16.898 HID Product Solutions[1537:11487] <MFMailComposeRemoteViewController: 0x7a8b8c00> timed out waiting for fence barrier from com.apple.MailCompositionService
+2015-01-14 12:29:58.702 HID Product Solutions[2051:13682] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Data/Application/1FA381FC-1B32-45B1-883B-9D9F7BEDEA9A/Library/Cookies/Cookies.binarycookies
+2015-01-14 12:29:58.776 HID Product Solutions[2051:13682] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-14 12:29:58.776 HID Product Solutions[2051:13682] Multi-tasking -> Device: YES, App: YES
+2015-01-14 12:29:58.780 HID Product Solutions[2051:13682] Unlimited access to network resources
+2015-01-14 12:29:58.783 HID Product Solutions[2051:13682] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-14 12:29:58.954 HID Product Solutions[2051:13682] CDVPlugin class CDVSplashScreen (pluginName: splashscreen) does not exist.
+2015-01-14 12:29:58.954 HID Product Solutions[2051:13682] [CDVTimer][splashscreen] 0.147998ms
+2015-01-14 12:29:59.033 HID Product Solutions[2051:13682] [CDVTimer][socialsharing] 79.129040ms
+2015-01-14 12:29:59.034 HID Product Solutions[2051:13682] [CDVTimer][TotalPluginStartup] 79.577982ms
+2015-01-14 12:29:59.064 HID Product Solutions[2051:13682] Resetting plugins due to page load.
+2015-01-14 12:29:59.275 HID Product Solutions[2051:13682] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/AC3E85BC-1900-4F4D-B8A2-1C6F8A5401E9/HID%20Product%20Solutions.app/www/index.html
+2015-01-14 12:30:04.422 HID Product Solutions[2051:13682] THREAD WARNING: ['SocialSharing'] took '45.187988' ms. Plugin should use a background thread.
+2015-01-14 12:30:10.203 HID Product Solutions[2051:13782] bool _WebTryThreadLock(bool), 0x79faca10: Tried to obtain the web lock from a thread other than the main thread or the web thread. This may be a result of calling to UIKit from a secondary thread. Crashing now...
+1   0x585a8e1 WebThreadLock
+2   0x8d2bad -[UIWebView stringByEvaluatingJavaScriptFromString:]
+3   0x45318 -[CDVViewController shouldAutorotateToInterfaceOrientation:]
+4   0x56d2b -[MainViewController shouldAutorotateToInterfaceOrientation:]
+5   0x45448 -[CDVViewController supportedInterfaceOrientations]
+6   0x77ce36 -[UIViewController __supportedInterfaceOrientations]
+7   0x7708c6 -[UIViewController _preferredInterfaceOrientationGivenStatusBarAndDeviceAndOrientation:]
+2015-01-14 12:30:10.205 HID Product Solutions[2051:13682] viewServiceDidTerminateWithError: Error Domain=_UIViewServiceInterfaceErrorDomain Code=3 "The operation couldn’t be completed. (_UIViewServiceInterfaceErrorDomain error 3.)" UserInfo=0x79fab270 {Message=Service Connection Interrupted}
+8   0x770b15 -[UIViewController _preferredInterfaceOrientationGivenCurrentOrientation:]
+9   0x77cba4 -[UIViewController _preferredInterfaceOrientationForPresentationInWindow:fromInterfaceOrientation:]
+10  0xdd8fca -[_UIFullscreenPresentationController _adjustOrientationIfNecessaryInWindow:forViewController:preservingViewController:]
+11  0x73ce77 -[UIPresentationController _dismissWithAnimationController:interactionController:target:didEndSelector:]
+12  0x777fb5 -[UIViewController _dismissViewControllerWithAnimationController:interactionController:completion:]
+13  0x777b8e -[UIViewController _dismissViewControllerWithTransition:from:completion:]
+14  0x7771a3 -[UIViewController dismissViewControllerWithTransition:completion:]
+15  0x7797c7 -[UIViewController dismissViewControllerAnimated:completion:]
+16  0xdc7059 -[UIActivityViewController _cleanupActivityWithSuccess:items:error:]
+17  0xdc8e51 __45-[UIActivityViewController _performActivity:]_block_invoke
+18  0xdb9c91 -[UIActivity(UIActivity_Private) activityDidFinish:items:error:]
+19  0xdb92c1 -[UIActivity activityDidFinish:]
+20  0xdd2d45 -[UIMailActivity mailComposeController:didFinishWithResult:error:]
+21  0x1fe2e10 -[MFMailComposeInternalViewController _notifyCompositionDidFinish]
+22  0x1fe2b98 -[MFMailComposeInternalViewController compositionFinishedWithResult:error:]
+23  0x1fe29e5 -[MFMailComposeInternalViewController _finishServiceViewControllerRequestWithSuccess:]
+24  0x1fe2823 __68-[MFMailComposeInternalViewController _configureRemoteViewContoller]_block_invoke
+25  0x23f0d8a __NSXPCCONNECTION_IS_CALLING_OUT_TO_ERROR_BLOCK__
+26  0x23f2151 __97-[NSXPCConnection _sendInvocation:proxyNumber:remoteInterface:withErrorHandler:timeout:userInfo:]_block_invoke304
+27  0x2fceb59 _xpc_connection_reply_callout
+28  0x2fc5a6b _xpc_connection_call_reply
+29  0x2cf503f _dispatch_client_callout
+30  0x2cddcbd _dispatch_queue_drain
+31  0x2cdd8ac _dispatch_queue_invoke
+2015-01-14 12:35:22.406 HID Product Solutions[2661:18816] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Data/Application/7EC61FCC-6A31-4FF6-9D15-27B593B4150F/Library/Cookies/Cookies.binarycookies
+2015-01-14 12:35:22.477 HID Product Solutions[2661:18816] Apache Cordova native platform version 3.6.3 is starting.
+2015-01-14 12:35:22.477 HID Product Solutions[2661:18816] Multi-tasking -> Device: YES, App: YES
+2015-01-14 12:35:22.481 HID Product Solutions[2661:18816] Unlimited access to network resources
+2015-01-14 12:35:22.484 HID Product Solutions[2661:18816] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2015-01-14 12:35:22.656 HID Product Solutions[2661:18816] CDVPlugin class CDVSplashScreen (pluginName: splashscreen) does not exist.
+2015-01-14 12:35:22.657 HID Product Solutions[2661:18816] [CDVTimer][splashscreen] 0.149965ms
+2015-01-14 12:35:22.735 HID Product Solutions[2661:18816] [CDVTimer][socialsharing] 78.190029ms
+2015-01-14 12:35:22.735 HID Product Solutions[2661:18816] [CDVTimer][TotalPluginStartup] 78.625977ms
+2015-01-14 12:35:22.766 HID Product Solutions[2661:18816] Resetting plugins due to page load.
+2015-01-14 12:35:25.237 HID Product Solutions[2661:18816] Finished load of: file:///Users/MMcWilliams/Library/Developer/CoreSimulator/Devices/E53F2901-4C7B-4FC6-A5B2-4E4C820DE639/data/Containers/Bundle/Application/C3229A25-ECB5-4027-8FD3-E4A81D1FD05A/HID%20Product%20Solutions.app/www/index.html
+2015-01-14 12:35:30.170 HID Product Solutions[2661:18816] THREAD WARNING: ['SocialSharing'] took '311.281006' ms. Plugin should use a background thread.
