@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:HID Product Solutions.xcodeproj">
+      location = "self:Restaurant.xcodeproj">
    </FileRef>
 </Workspace>

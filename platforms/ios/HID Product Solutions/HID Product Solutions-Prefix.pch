@@ -17,7 +17,7 @@
  under the License.
  */
 //
-// Prefix header for all source files of the 'HID Product Solutions' target in the 'HID Product Solutions' project
+// Prefix header for all source files of the 'Restaurant' target in the 'Restaurant' project
 //
 
 #ifdef __OBJC__

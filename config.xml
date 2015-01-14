@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.HidProductAppNew" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.HIDNewProductApp.start" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>HID Product Solutions</name>
     <description>
         A product solutions application for HID Global an ASSA ABLOY company.
@@ -11,20 +11,17 @@
     <access origin="*" />
     <icon src="www/res/icon.png" />
     <preference name="SplashScreen" value="Default-568h@2x~iphone.png" />
-	<preference name="SplashScreenDelay" value="3000" />
+    <preference name="SplashScreenDelay" value="3000" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="webviewbounce" value="false" />
-    <feature name="EmailComposer">
-        <param name="ios-package" value="EmailComposer" />
-        <param name="android-package" value="de.applant.cordova.plugin.email-composer" />
-    </feature>
     <feature name="SocialSharing">
         <param name="ios-package" value="SocialSharing" />
         <param name="onload" value="true" />
     </feature>
-    <gap:plugin name="de.appplant.cordova.plugin.email-composer" />
     <plugins>
         <plugin name="EmailComposer" value="EmailComposer" />
         <plugin name="SocialSharing" value="SocialSharing" />
     </plugins>
 </widget>
+
+
